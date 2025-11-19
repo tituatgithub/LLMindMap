@@ -1,0 +1,250 @@
+relation,from,to
+belongsTo,vaibhav,DSE
+heads,vaibhav,DSE
+belongsTo,tanmay,DSE
+heads,tanmay,DSE
+belongsTo,jasabanta,DSE
+belongsTo,vinod,DSE
+belongsTo,akshay,DSE
+belongsTo,samiran,DSE
+heads,Samiran Das,Computer Science
+heads,Akash Anil,Computer Science
+heads,Sundaram Muthu,Computer Science
+guidedBy,Shubhi Gehlot,Akshay Agarwal
+memberOf,Shubhi Gehlot,Computer Science
+guidedBy,Bhanu Pratap Paregi,Vaibhav kumar
+memberOf,Bhanu Pratap Paregi,Computer Science
+guidedBy,Prateek Sarangi,Tanmay Basu
+memberOf,Prateek Sarangi,Computer Science
+guidedBy,Ramen Ghosh,Samiran Das
+memberOf,Ramen Ghosh,Computer Science
+guidedBy,kunal24,Dr. Vinod K Kurmi
+memberOf,kunal24,research group ID
+guidedBy,poulomi24,Dr. Akshay Agarwal
+memberOf,poulomi24,research group ID
+guidedBy,saarthi24,Dr. Akshay Agarwal
+memberOf,saarthi24,research group ID
+guidedBy,ayushg24,Dr. Jasabanta Patro
+memberOf,ayushg24,research group ID
+guidedBy,pavanrajak,Dr. Akshay Agarwal
+memberOf,pavanrajak,research group ID
+guidedBy,atulk23,Dr. Akshay Agarwal
+memberOf,atulk23,research group ID
+guidedBy,shivangir23,Dr. Vinod K Kurmi
+memberOf,shivangir23,research group ID
+guidedBy,hemantpramanick,Dr. Vaibhav Kumar
+memberOf,hemantpramanick,research group ID
+guidedBy,surajk,Dr. Vaibhav Kumar
+memberOf,surajk,research group ID
+belongsTo,suraj23,department ID
+guidedBy,suraj23,Dr. Vaibhav Kumar
+partOf,department ID,Institute ID
+belongsTo,sumit,department ID
+guidedBy,sumit,Dr. Tanmay Basu
+belongsTo,prachi,department ID
+guidedBy,prachi,Dr. Vaibhav Kumar
+belongsTo,akanksha,department ID
+guidedBy,akanksha,Dr. Vinod k Kurmi
+belongsTo,rasel23,department ID
+guidedBy,rasel23,Dr. Tanmay Basu
+belongsTo,parinita,department ID
+guidedBy,parinita,Dr. Vinod K. Kurmi
+belongsTo,vishesh,department ID
+guidedBy,vishesh,Dr. Akshay Agarwal
+belongsTo,pyarelal,department ID
+guidedBy,pyarelal,Dr. Vaibhav Kumar
+belongsTo,rajeev,department ID
+guidedBy,rajeev,Dr. Vinod k. Kurmi
+belongsTo,debajyoti,department ID
+heads,Faculty,Department
+guidedBy,Student,Faculty
+belongsTo,Student,Department
+memberOf,Student,ResearchGroup
+partOf,Department,Institute
+heads,Faculty,ResearchGroup
+partOf,Department of Computer Science,Institute ID
+heads,Faculty ID,GeoAI4Cities Lab
+heads,Faculty ID,ISHA Lab
+partOf,Department of Biological Sciences,Institute ID
+heads,Faculty ID,BDS Lab
+belongsTo,Faculty ID,Department of Computer Science
+belongsTo,Faculty ID,Department of Biological Sciences
+partOf,bbmed0,Computer Science
+heads,Faculty ID,bbmed0
+partOf,visdom,Computer Science
+heads,Faculty ID,visdom
+partOf,trustworthy_biometravision_lab,Computer Science
+heads,Faculty ID,trustworthy_biometravision_lab
+partOf,Computer Science,iiserb
+partOf,computer_science,iiserb
+heads,Faculty ID,computer_science
+belongsTo,SoDAL Lab,IISER Bhopal
+heads,Akash Anil,SoDAL Lab
+belongsTo,Robotic Perception and Embodied Intelligence Lab,IISER Bhopal
+heads,Sundaram Muthu,Robotic Perception and Embodied Intelligence Lab
+partOf,IISER Bhopal,Indian Institute of Science
+belongsTo,Student_1,Department_1
+memberOf,Student_1,ResearchGroup_1
+belongsTo,Student_2,Department_1
+memberOf,Student_2,ResearchGroup_1
+belongsTo,Student_3,Department_1
+memberOf,Student_3,ResearchGroup_1
+belongsTo,Student_4,Department_1
+memberOf,Student_4,ResearchGroup_1
+belongsTo,Student_5,Department_1
+memberOf,Student_5,ResearchGroup_1
+belongsTo,Student_6,Department_1
+memberOf,Student_6,ResearchGroup_1
+belongsTo,Student_7,Department_1
+memberOf,Student_7,ResearchGroup_1
+belongsTo,Student_8,Department_1
+memberOf,Student_8,ResearchGroup_1
+belongsTo,Student_9,Department_1
+memberOf,Student_9,ResearchGroup_1
+belongsTo,Student_10,Department_1
+memberOf,Student_10,ResearchGroup_1
+belongsTo,Student_11,Department_1
+memberOf,Student_11,ResearchGroup_1
+belongsTo,Student_12,Department_1
+memberOf,Student_12,ResearchGroup_1
+belongsTo,Student_13,Department_1
+memberOf,Student_13,ResearchGroup_1
+heads,Dr. Tanmay Basu,Data Science and Engineering
+partOf,Data Science and Engineering,IISER Bhopal
+partOf,DSE,IISER Bhopal
+heads,Dr. Tanmay Basu,DSE
+partOf,IISER Bhopal,Director Name
+memberOf,BS-MS 5th Year,Research Group ID
+guidedBy,BS-MS 5th Year,Faculty ID
+memberOf,BS-MS Majors (3rd Year),Research Group ID
+guidedBy,BS-MS Majors (3rd Year),Faculty ID
+memberOf,BS-MS Majors (4th Year),Research Group ID
+guidedBy,BS-MS Majors (4th Year),Faculty ID
+memberOf,PhD,Research Group ID
+guidedBy,PhD,Faculty ID
+memberOf,Alumni,Research Group ID
+guidedBy,Alumni,Faculty ID
+partOf,IISER Bhopal,Department
+heads,Dr. Tanmay Basu,Department
+guidedBy,Student,Dr. Tanmay Basu
+memberOf,Student,Research Group
+belongsTo,/phd,IISER Bhopal
+partOf,/phd,DSE Students IISER Bhopal
+partOf,/bs-ms-5th-year,DSE Students IISER Bhopal
+partOf,/bs-ms-majors-3rd-year,DSE Students IISER Bhopal
+partOf,/bs-ms-majors-4th-year,DSE Students IISER Bhopal
+memberOf,/alumni,DSE Students IISER Bhopal
+belongsTo,bs-ms-majors-3rd-year,Department Homepage
+partOf,Department Homepage,IISER Bhopal
+belongsTo,bs-ms-majors-4th-year,Department Homepage
+belongsTo,bs-ms-5th-year,Department Homepage
+belongsTo,alumni,Department Homepage
+belongsTo,phd,Department Homepage
+belongsTo,office,Department Homepage
+partOf,department-homepage,IISER Bhopal
+heads,dr-tanmay-basu,Department Homepage
+heads,hod-dse-iiserb-ac-in,Department Homepage
+heads,office-dse-iiserb-ac-in,Department Homepage
+memberOf,3rd-year-students,Department Homepage
+partOf,IISER Bhopal,Department of Data Science and Engineering
+belongsTo,Department of Data Science and Engineering,IISER Bhopal
+heads,Dr. Tanmay Basu,Department of Data Science and Engineering
+guidedBy,Dr. Tanmay Basu,Dr. Tanmay Basu
+heads,Dr. Tanmay Basu,Department Homepage
+belongsTo,Tanishq Sharma,Department Homepage
+heads,P S Rishi,NA
+guidedBy,Sarthak Srivastava,P S Rishi
+memberOf,4th Year Students,DSE
+belongsTo,DSE,IISER Bhopal
+memberOf,DSE Students IISER Bhopal,DSE
+memberOf,PhD,DSE
+memberOf,BS-MS 5th Year,DSE
+memberOf,BS-MS Majors (3rd Year),DSE
+memberOf,BS-MS Majors (4th Year),DSE
+memberOf,Alumni,DSE
+partOf,PhD,DSE
+partOf,BS-MS 5th Year,DSE
+partOf,BS-MS Majors (3rd Year),DSE
+partOf,BS-MS Majors (4th Year),DSE
+partOf,Alumni,DSE
+belongsTo,office_dse@iiserb.ac.in,DSE
+belongsTo,Department Homepage,DSE
+belongsTo,DSE Students IISER Bhopal,DSE
+guidedBy,PhD,DSE Students IISER Bhopal
+belongsTo,BS-MS 5th Year,DSE
+guidedBy,BS-MS 5th Year,DSE Students IISER Bhopal
+belongsTo,BS-MS Majors (3rd Year),DSE
+guidedBy,BS-MS Majors (3rd Year),DSE Students IISER Bhopal
+belongsTo,BS-MS Majors (4th Year),DSE
+guidedBy,BS-MS Majors (4th Year),DSE Students IISER Bhopal
+belongsTo,Alumni,DSE
+guidedBy,Alumni,DSE Students IISER Bhopal
+heads,DSE,DSE Students IISER Bhopal
+heads,DSE,BS-MS 5th Year
+heads,DSE,BS-MS Majors (3rd Year)
+heads,DSE,BS-MS Majors (4th Year)
+heads,DSE,Alumni
+belongsTo,Department of Data Science and Engineering,Institute
+heads,Department of Data Science and Engineering,Dr. Tanmay Basu
+partOf,Department of Data Science and Engineering,IISER Bhopal
+heads,Data Science and Engineering,Dr. Tanmay Basu
+guidedBy,Aryan Mishra,Dr. Akash Anil
+memberOf,Aryan Mishra,Data Science and Engineering
+guidedBy,Prasanna D Kharode,Dr. Akash Anil
+memberOf,Prasanna D Kharode,Data Science and Engineering
+guidedBy,Debasmita Panda,Dr. Akash Anil
+memberOf,Debasmita Panda,Data Science and Engineering
+guidedBy,Sharayu Borade,Dr. Akshay Agarwal
+memberOf,Sharayu Borade,Data Science and Engineering
+guidedBy,Gurleen Kaur,Dr. Akshay Agarwal
+memberOf,Gurleen Kaur,Data Science and Engineering
+guidedBy,Khushi Chaudhari,Dr. Akshay Agarwal
+memberOf,Khushi Chaudhari,Data Science and Engineering
+guidedBy,Gargi Surendra Yeole,Dr. Akshay Agarwal
+memberOf,Gargi Surendra Yeole,Data Science and Engineering
+heads,Data Science and Engineering,Dr. Akash Anil
+heads,Data Science and Engineering,Dr. Akshay Agarwal
+belongsTo,Shivam Chopra,DSE
+guidedBy,Shivam Chopra,Dr. Vaibhav Kumar
+belongsTo,Suchetan G U,DSE
+guidedBy,Suchetan G U,Dr. Vaibhav Kumar
+belongsTo,Porus Vaid,DSE
+guidedBy,Porus Vaid,Dr. Vaibhav Kumar
+belongsTo,Aditya Kumar Singh,DSE
+guidedBy,Aditya Kumar Singh,Dr. Vinod K Kurmi
+belongsTo,Aditya Manoj,DSE
+guidedBy,Aditya Manoj,Dr. Sundaram Muthu
+heads,Dr. Vaibhav Kumar,DSE
+heads,Dr. Vinod K Kurmi,DSE
+heads,Dr. Sundaram Muthu,DSE
+belongsTo,SE Students IISER Bhopal,DSE
+guidedBy,SE Students IISER Bhopal,Dr. Tanmay Basu
+memberOf,SE Students IISER Bhopal,DSE
+partOf,Dr. Tanmay Basu,IISER Bhopal
+partOf,dse-iiserb,iiserb
+heads,Dr. Tanmay Basu,dse-iiserb
+heads,dr-tanmay-basu,dse-iiserb
+belongsTo,office-dse,dse-iiserb
+belongsTo,department-homepage,dse-iiserb
+belongsTo,S Majors,DSE Students IISER Bhopal
+belongsTo,BS-MS Majors,DSE Students IISER Bhopal
+belongsTo,Alumni,DSE Students IISER Bhopal
+partOf,DSE Students IISER Bhopal,IISER Bhopal
+belongsTo,PhD,DSE Students IISER Bhopal
+belongsTo,BS-MS 5th Year,DSE Students IISER Bhopal
+belongsTo,BS-MS Majors (3rd Year),DSE Students IISER Bhopal
+belongsTo,BS-MS Majors (4th Year),DSE Students IISER Bhopal
+belongsTo,More,DSE Students IISER Bhopal
+memberOf,office_dse@iiserb.ac.in,DSE Students IISER Bhopal
+memberOf,Department Homepage,DSE Students IISER Bhopal
+partOf,Department,IISER Bhopal
+partOf,BS-MS 5th Year,IISER Bhopal
+partOf,BS-MS Majors (3rd Year),IISER Bhopal
+partOf,BS-MS Majors (4th Year),IISER Bhopal
+partOf,Alumni,IISER Bhopal
+partOf,PhD,IISER Bhopal
+partOf,MS Students,IISER Bhopal
+locatedIn,Office,IISER Bhopal
+partOf,IISER Bhopal,IISER Bhopal
+partOf,dse,iiserb
+heads,Tanmay Basu,dse
