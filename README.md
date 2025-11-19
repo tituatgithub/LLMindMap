@@ -26,16 +26,6 @@ A fully automated pipeline that turns unstructured department web pages into a c
 - Zero-shot entity + relation extraction using **Groq + Llama 3.1 8B**  
 - Reproducible, modular, and ready for extension to other departments/institutes  
 
----
-├── data/raw/                  ← Original scraped text files
-├── notebooks/                 ← Original Jupyter notebook
-├── src/build_kg.py            ← Main clean & runnable script
-├── knowledge_graphs/
-│   ├── dse_kg.json            ← Final knowledge graph (JSON)
-│   ├── nodes.csv              ← All entities
-│   └── edges.csv              ← All relationships
-├── requirements.txt
-└── README.md
 
 
 ### Repository Structure
