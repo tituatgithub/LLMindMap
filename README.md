@@ -5,7 +5,7 @@
 ![Python](https://img.shields.io/badge/python-3.9%2B-blue)
 ![Groq](https://img.shields.io/badge/Groq-Llama%203.1%208B-green)
 ![License](https://img.shields.io/badge/license-MIT-blue)
-[![Contributors](https://img.shields.io/github/contributors/your-username/IISERB-DSE-Knowledge-Graph)](https://github.com/your-username/IISERB-DSE-Knowledge-Graph/graphs/contributors)
+
 
 A fully automated pipeline that turns unstructured department web pages into a clean, query-ready **Knowledge Graph** containing:
 
