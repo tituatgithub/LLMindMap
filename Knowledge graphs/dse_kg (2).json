@@ -1,0 +1,3398 @@
+{
+  "nodes": [
+    {
+      "id": "vaibhav",
+      "name": "Vaibhav Kumar",
+      "email": "vaibhav@iiserb.ac.in",
+      "department": "DSE",
+      "position": "Assistant Professor",
+      "joined_year": null,
+      "homepage": "https://sites.google.com/view/vaibhavkumar1/home"
+    },
+    {
+      "id": "tanmay",
+      "name": "Tanmay Basu",
+      "email": "tanmay@iiserb.ac.in",
+      "department": "DSE",
+      "position": "Assistant Professor",
+      "joined_year": null,
+      "homepage": "https://sites.google.com/view/tanmaybasu/"
+    },
+    {
+      "id": "jasabanta",
+      "name": "Jasabanta Patro",
+      "email": "jpatro@iiserb.ac.in",
+      "department": "DSE",
+      "position": "Assistant Professor",
+      "joined_year": null,
+      "homepage": "https://sites.google.com/view/jpatro/home"
+    },
+    {
+      "id": "vinod",
+      "name": "Vinod K Kurmi",
+      "email": "vinodkk@iiserb.ac.in",
+      "department": "DSE",
+      "position": "Assistant Professor",
+      "joined_year": null,
+      "homepage": "https://vinodkkurmi.github.io/"
+    },
+    {
+      "id": "akshay",
+      "name": "Akshay Agarwal",
+      "email": "akagarwal@iiserb.ac.in",
+      "department": "DSE",
+      "position": "Assistant Professor",
+      "joined_year": null,
+      "homepage": "https://sites.google.com/iiitd.ac.in/agarwalakshay/home"
+    },
+    {
+      "id": "samiran",
+      "name": "Samiran Das",
+      "email": "samiran@iiserb.ac.in",
+      "department": "DSE",
+      "position": "Assistant Professor",
+      "joined_year": null,
+      "homepage": null
+    },
+    {
+      "type": "Faculty",
+      "id": "Samiran Das",
+      "name": "Samiran Das",
+      "email": "samiran@iiserb.ac.in",
+      "department": "Computer Science",
+      "position": "Professor",
+      "joined_year": null
+    },
+    {
+      "id": "Akash Anil",
+      "name": "Akash Anil",
+      "email": "https://sites.google.com/view/akash-anil",
+      "department": "IISER Bhopal",
+      "position": "Faculty"
+    },
+    {
+      "id": "Sundaram Muthu",
+      "name": "Sundaram Muthu",
+      "email": "https://tbvl22.github.io/website/home.html",
+      "department": "IISER Bhopal",
+      "position": "Faculty"
+    },
+    {
+      "type": "PhD",
+      "id": "Shubhi Gehlot",
+      "name": "Ms. Shubhi Gehlot",
+      "roll_no": null,
+      "email": "shubhi24@iiserb.ac.in",
+      "department": "Computer Science",
+      "linkedin": null,
+      "github": "https://shubhigehlot21.github.io/My_Website/",
+      "research_group": null,
+      "guide": "Akshay Agarwal"
+    },
+    {
+      "type": "PhD",
+      "id": "Bhanu Pratap Paregi",
+      "name": "Mr. Bhanu Pratap Paregi",
+      "roll_no": null,
+      "email": "bhanu24@iiserb.ac.in",
+      "department": "Computer Science",
+      "linkedin": null,
+      "github": "https://sites.google.com/view/bhanu-paregiphd-scholar",
+      "research_group": null,
+      "guide": "Vaibhav kumar"
+    },
+    {
+      "type": "PhD",
+      "id": "Prateek Sarangi",
+      "name": "Mr. Prateek Sarangi",
+      "roll_no": null,
+      "email": "prateek24@iiserb.ac.in",
+      "department": "Computer Science",
+      "linkedin": null,
+      "github": "https://sites.google.com/view/prateeksarangi/",
+      "research_group": null,
+      "guide": "Tanmay Basu"
+    },
+    {
+      "type": "PhD",
+      "id": "Ramen Ghosh",
+      "name": "Mr. Rame n G hosh",
+      "roll_no": null,
+      "email": "ramen24@iiserb.ac.in",
+      "department": "Computer Science",
+      "linkedin": null,
+      "github": null,
+      "research_group": null,
+      "guide": "Samiran Das"
+    },
+    {
+      "id": "kunal24",
+      "name": "Mr. Kunal J angid",
+      "type": "PhD",
+      "roll_no": "official roll number",
+      "email": "kunal24@iiserb.ac.in",
+      "department": "department ID",
+      "linkedin": "LinkedIn URL",
+      "github": "https://kunaljangid01.github.io/",
+      "research_group": "research group ID",
+      "guide": "Dr. Vinod K Kurmi"
+    },
+    {
+      "id": "poulomi24",
+      "name": "Ms. Poulomi Bhattacharya",
+      "type": "PhD",
+      "roll_no": "official roll number",
+      "email": "poulomi24@iiserb.ac.in",
+      "department": "department ID",
+      "linkedin": "LinkedIn URL",
+      "github": "https://poulomi891.github.io/Poulomi/",
+      "research_group": "research group ID",
+      "guide": "Dr. Akshay Agarwal"
+    },
+    {
+      "id": "saarthi24",
+      "name": "Ms. S Aarthi",
+      "type": "PhD",
+      "roll_no": "official roll number",
+      "email": "saarthi24@iiserb.ac.in",
+      "department": "department ID",
+      "linkedin": "LinkedIn URL",
+      "github": "https://saarthi25.github.io/S_Aarthi/",
+      "research_group": "research group ID",
+      "guide": "Dr. Akshay Agarwal"
+    },
+    {
+      "id": "ayushg24",
+      "name": "M r . Ayush Garg",
+      "type": "PhD",
+      "roll_no": "official roll number",
+      "email": "ayushg24@iiserb.ac.in",
+      "department": "department ID",
+      "linkedin": "LinkedIn URL",
+      "github": "https://ayushs-garg.github.io/",
+      "research_group": "research group ID",
+      "guide": "Dr. Jasabanta Patro"
+    },
+    {
+      "id": "pavanrajak",
+      "name": "Pavan Rajak",
+      "type": "PhD",
+      "roll_no": "official roll number",
+      "email": "pavanrajak405@gmail.com",
+      "department": "department ID",
+      "linkedin": "LinkedIn URL",
+      "github": "https://pavanrajak.github.io/pavan/",
+      "research_group": "research group ID",
+      "guide": "Dr. Akshay Agarwal"
+    },
+    {
+      "id": "atulk23",
+      "name": "Mr. Atul Kumar",
+      "type": "PhD",
+      "roll_no": "official roll number",
+      "email": "atulk23@iiserb.ac.in",
+      "department": "department ID",
+      "linkedin": "LinkedIn URL",
+      "github": "https://atulkr05.github.io/",
+      "research_group": "research group ID",
+      "guide": "Dr. Akshay Agarwal"
+    },
+    {
+      "id": "shivangir23",
+      "name": "Shivangi Rai",
+      "type": "PhD",
+      "roll_no": "official roll number",
+      "email": "shivangir23@iiserb.ac.in",
+      "department": "department ID",
+      "linkedin": "LinkedIn URL",
+      "github": "https://shivangiraii.github.io/",
+      "research_group": "research group ID",
+      "guide": "Dr. Vinod K Kurmi"
+    },
+    {
+      "id": "hemantpramanick",
+      "name": "Hemant Kumar",
+      "type": "PhD",
+      "roll_no": "official roll number",
+      "email": "hemantpramanick@gmail.com",
+      "department": "department ID",
+      "linkedin": "LinkedIn URL",
+      "github": "https://hemantpramanick.github.io/#bio",
+      "research_group": "research group ID",
+      "guide": "Dr. Vaibhav Kumar"
+    },
+    {
+      "id": "surajk",
+      "name": "Suraj K",
+      "type": "PhD",
+      "roll_no": "official roll number",
+      "email": "surajk@iiserb.ac.in",
+      "department": "department ID",
+      "linkedin": "LinkedIn URL",
+      "github": "https://github.com/surajk",
+      "research_group": "research group ID",
+      "guide": "Dr. Vaibhav Kumar"
+    },
+    {
+      "id": "suraj23",
+      "name": "Suraj Kanu",
+      "type": "PhD",
+      "roll_no": "official roll number",
+      "email": "suraj23@iiserb.ac.in",
+      "department": "department ID",
+      "linkedin": "",
+      "github": "",
+      "research_group": "",
+      "guide": "Dr. Vaibhav Kumar"
+    },
+    {
+      "id": "sumit",
+      "name": "Sumit Kumar",
+      "type": "PhD",
+      "roll_no": "official roll number",
+      "email": "",
+      "department": "department ID",
+      "linkedin": "https://www.linkedin.com/in/sumit-kumar-787203178",
+      "github": "",
+      "research_group": "",
+      "guide": "Dr. Tanmay Basu"
+    },
+    {
+      "id": "prachi",
+      "name": "Prachi Chachondhia",
+      "type": "PhD",
+      "roll_no": "official roll number",
+      "email": "",
+      "department": "department ID",
+      "linkedin": "",
+      "github": "",
+      "research_group": "",
+      "guide": "Dr. Vaibhav Kumar"
+    },
+    {
+      "id": "akanksha",
+      "name": "Akanksha Singh",
+      "type": "PhD",
+      "roll_no": "official roll number",
+      "email": "",
+      "department": "department ID",
+      "linkedin": "",
+      "github": "https://akankshasingh233.github.io/",
+      "research_group": "",
+      "guide": "Dr. Vinod k Kurmi"
+    },
+    {
+      "id": "rasel23",
+      "name": "Rasel",
+      "type": "PhD",
+      "roll_no": "official roll number",
+      "email": "rasel23@iiserb.ac.in",
+      "department": "department ID",
+      "linkedin": "",
+      "github": "",
+      "research_group": "",
+      "guide": "Dr. Tanmay Basu"
+    },
+    {
+      "id": "parinita",
+      "name": "Parinita Nema",
+      "type": "PhD",
+      "roll_no": "official roll number",
+      "email": "",
+      "department": "department ID",
+      "linkedin": "",
+      "github": "https://parinitanema.github.io/",
+      "research_group": "",
+      "guide": "Dr. Vinod K. Kurmi"
+    },
+    {
+      "id": "vishesh",
+      "name": "Vishesh Kumar",
+      "type": "PhD",
+      "roll_no": "official roll number",
+      "email": "",
+      "department": "department ID",
+      "linkedin": "",
+      "github": "https://visheshrajput2408.github.io/vishesh.github.io/",
+      "research_group": "",
+      "guide": "Dr. Akshay Agarwal"
+    },
+    {
+      "id": "pyarelal",
+      "name": "Pyare Lal",
+      "type": "PhD",
+      "roll_no": "official roll number",
+      "email": "",
+      "department": "department ID",
+      "linkedin": "https://www.linkedin.com/in/pyarelaldse/",
+      "github": "",
+      "research_group": "",
+      "guide": "Dr. Vaibhav Kumar"
+    },
+    {
+      "id": "rajeev",
+      "name": "Rajeev Ranjan Dwivedi",
+      "type": "PhD",
+      "roll_no": "official roll number",
+      "email": "",
+      "department": "department ID",
+      "linkedin": "",
+      "github": "https://rajeev-dw9.github.io/",
+      "research_group": "",
+      "guide": "Dr. Vinod k. Kurmi"
+    },
+    {
+      "id": "debajyoti",
+      "name": "Debajyoti Mazumder",
+      "type": "PhD",
+      "roll_no": "official roll number",
+      "email": "",
+      "department": "department ID",
+      "linkedin": "",
+      "github": "",
+      "research_group": "",
+      "guide": ""
+    },
+    {
+      "id": "Dr. Jasabanta Patro",
+      "name": "Dr. Jasabanta Patro",
+      "type": "Faculty",
+      "email": "office_dse@iiserb.ac.in",
+      "department": "IISER Bhopal",
+      "position": "Professor",
+      "joined_year": "2022"
+    },
+    {
+      "id": "Mr. Gaurav Kumar",
+      "name": "Mr. Gaurav Kumar",
+      "type": "Student",
+      "roll_no": "202",
+      "email": "gauravkumar62024@gmail.com",
+      "department": "IISER Bhopal",
+      "linkedin": "https://www.linkedin.com/in/gauravkumar62024/",
+      "github": "https://gauravkumar62024.github.io/",
+      "research_group": "ASIP",
+      "guide": "Dr. Jasabanta Patro"
+    },
+    {
+      "id": "Ms. Rini Smita Thakur",
+      "name": "Ms. Rini Smita Thakur",
+      "type": "PostDoc",
+      "email": "rinithakur@iiserb.ac.in",
+      "department": "IISER Bhopal",
+      "position": "PostDoc",
+      "joined_year": "2023"
+    },
+    {
+      "id": "Mr. Anirban Tarafdar",
+      "name": "Mr. Anirban Tarafdar",
+      "type": "PostDoc",
+      "email": "anirbantarafdar@iiserb.ac.in",
+      "department": "IISER Bhopal",
+      "position": "PostDoc",
+      "joined_year": "2024"
+    },
+    {
+      "id": "ASIP",
+      "name": "Advanced Signal and Image Processing Lab (ASIP)",
+      "type": "ResearchGroup",
+      "department": "IISER Bhopal",
+      "head": "Dr. Jasabanta Patro",
+      "website": "https://sites.google.com/view/samiran-das/research?authuser=0&pli=1"
+    },
+    {
+      "type": "ResearchGroup",
+      "id": "GeoAI4Cities Lab",
+      "name": "GeoAI4Cities Lab",
+      "department": "Department of Computer Science",
+      "head": "Faculty ID",
+      "website": "https://sites.google.com/iiserb.ac.in/geoai/home"
+    },
+    {
+      "type": "Institute",
+      "id": "IISER Bhopal",
+      "name": "Indian Institute of Science Education and Research Bhopal",
+      "director": "Dr. Tanmay Basu",
+      "location": "Bhopal, Madhya Pradesh",
+      "established": "2016"
+    },
+    {
+      "type": "ResearchGroup",
+      "id": "ISHA Lab",
+      "name": "Intelligent Systems and Hypertext Analysis (ISHA) Lab",
+      "department": "Department of Computer Science",
+      "head": "Faculty ID",
+      "website": "https://sites.google.com/iiserb.ac.in/isha-iiserb/home"
+    },
+    {
+      "type": "ResearchGroup",
+      "id": "BDS Lab",
+      "name": "Biomedical Data Science Research Lab",
+      "department": "Department of Biological Sciences",
+      "head": "Faculty ID",
+      "website": "https://sites.google.com/iiserb.ac.in/bds-lab/home"
+    },
+    {
+      "type": "Faculty",
+      "id": "Faculty ID",
+      "name": "Faculty Name",
+      "email": "faculty_email",
+      "department": "Department of Biological Sciences",
+      "position": "Professor",
+      "joined_year": "2020"
+    },
+    {
+      "type": "Department",
+      "id": "Department of Computer Science",
+      "name": "Department of Computer Science",
+      "institute": "Institute ID",
+      "hod": "Faculty ID"
+    },
+    {
+      "type": "Department",
+      "id": "Department of Biological Sciences",
+      "name": "Department of Biological Sciences",
+      "institute": "Institute ID",
+      "hod": "Faculty ID"
+    },
+    {
+      "type": "Institute",
+      "id": "Institute ID",
+      "name": "IISER Bhopal",
+      "director": "Director Name",
+      "location": "Bhopal, Madhya Pradesh",
+      "established": "2008"
+    },
+    {
+      "id": "bbmed0",
+      "name": "NLP group at IISERB",
+      "type": "ResearchGroup",
+      "department": "Computer Science",
+      "head": "Faculty ID",
+      "website": "https://bdslab-iiserb.github.io/"
+    },
+    {
+      "id": "visdom",
+      "name": "Visual Data Computing Group (VisDom)",
+      "type": "ResearchGroup",
+      "department": "Computer Science",
+      "head": "Faculty ID",
+      "website": "https://visdomlab.github.io/"
+    },
+    {
+      "id": "trustworthy_biometravision_lab",
+      "name": "Trustworthy BiometraVision Lab",
+      "type": "ResearchGroup",
+      "department": "Computer Science",
+      "head": "Faculty ID",
+      "website": "Homepage URL"
+    },
+    {
+      "type": "Institute",
+      "id": "iiserb",
+      "name": "IISER Bhopal",
+      "director": null,
+      "location": "Bhopal, MP",
+      "established": null
+    },
+    {
+      "id": "computer_science",
+      "name": "Computer Science",
+      "type": "Department",
+      "institute": "iiserb",
+      "hod": "Faculty ID"
+    },
+    {
+      "id": "SoDAL Lab",
+      "name": "Social Data Analytics and Learning Lab",
+      "department": "IISER Bhopal",
+      "head": "Akash Anil",
+      "website": "https://sites.google.com/view/akash-anil"
+    },
+    {
+      "id": "Robotic Perception and Embodied Intelligence Lab",
+      "name": "Robotic Perception and Embodied Intelligence Lab",
+      "department": "IISER Bhopal",
+      "head": "Sundaram Muthu"
+    },
+    {
+      "id": "Anay Singh",
+      "name": "Anay Singh",
+      "type": "BS",
+      "roll_no": "23045",
+      "email": "anay23@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "Github/LinkedIn",
+      "github": "https://github.com/crypticBard",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "id": "Tanushree Ravindra Pratap Yadav",
+      "name": "Tanushree Ravindra Pratap Yadav",
+      "type": "BS",
+      "roll_no": "23380",
+      "email": "yadav23@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "Github/LinkedIn",
+      "github": "https://github.com/SinUbyCosU",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "id": "Sangam",
+      "name": "Sangam",
+      "type": "BS",
+      "roll_no": "23290",
+      "email": "sangam23@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "Github/Linkedin",
+      "github": "https://github.com/sam1511x",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "id": "Dev Raj",
+      "name": "Dev Raj",
+      "type": "BS",
+      "roll_no": "23102",
+      "email": "devraj23@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "Github/Linkedin",
+      "github": "https://www.linkedin.com/in/dev-raj-iiserb",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "id": "Sankul Rahate",
+      "name": "Sankul Rahate",
+      "type": "BS",
+      "roll_no": "23292",
+      "email": "sankul23@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "www.linkedin.com/in/sankul-rahate-716046227",
+      "github": "Github/Linkedin",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "id": "Kiranmoy Das",
+      "name": "Kiranmoy Das",
+      "type": "BS",
+      "roll_no": "23156",
+      "email": "kiranmoy23@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "GitHub/LinkedIn",
+      "github": "https://www.linkedin.com/in/kiranmoy-das-677616323/",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "id": "Meghna Yadav",
+      "name": "Meghna Yadav",
+      "type": "BS",
+      "roll_no": "23184",
+      "email": "meghna23@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "https://www.linkedin.com/in/meghna-yadav-9447512a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+      "github": "GitHub/LinkedIn",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "id": "Lakshay Saini",
+      "name": "Lakshay Saini",
+      "type": "BS",
+      "roll_no": "23166",
+      "email": "lakshay23@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "www.linkedin.com/in/lakshayxi",
+      "github": "GitHub/LinkedIn",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "id": "Kushagra Agarwal",
+      "name": "Kushagra Agarwal",
+      "type": "BS",
+      "roll_no": "23162",
+      "email": "kushagra23@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "GitHub/LinkedIn",
+      "github": "https://github.com/KushagraAgarwal525",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "id": "Ananya Preyasi",
+      "name": "Ananya Preyasi",
+      "type": "BS",
+      "roll_no": "23044",
+      "email": "ananya23@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "NA",
+      "github": "NA",
+      "research_group": "NA",
+      "guide": "Anay Singh"
+    },
+    {
+      "type": "Department",
+      "id": "NA",
+      "name": "DSE Students IISER Bhopal",
+      "institute": "IISER Bhopal",
+      "hod": "Dr. Tanmay Basu"
+    },
+    {
+      "id": "Abhishek Nair",
+      "name": "Abhishek Nair",
+      "type": "NA",
+      "roll_no": "23009",
+      "email": "abhisheknair23@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "https://www.linkedin.com/in/abhishek-nair-054922308",
+      "github": "NA",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "id": "Palak Kumari",
+      "name": "Palak Kumari",
+      "type": "NA",
+      "roll_no": "23217",
+      "email": "palak23@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "https://www.linkedin.com/in/palak-kumari-239b39284/",
+      "github": "NA",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "id": "Rachit Bakshi",
+      "name": "Rachit Bakshi",
+      "type": "NA",
+      "roll_no": "23254",
+      "email": "rachit23@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "https://www.linkedin.com/in/rachit-bakshi-b61899287?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      "github": "NA",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "id": "Sarabeshwar Balaji",
+      "name": "Sarabeshwar Balaji",
+      "type": "NA",
+      "roll_no": "23294",
+      "email": "sarabeshwar23@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "https://www.linkedin.com/in/sarabeshwar-balaji/",
+      "github": "NA",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "id": "Charvi Gupta",
+      "name": "Charvi Gupta",
+      "type": "NA",
+      "roll_no": "23091",
+      "email": "charvi23@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "https://www.linkedin.com/in/charvi-gupta-620521288",
+      "github": "https://github.com/Charvi-Gupta",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "id": "Pranay Meshram",
+      "name": "Pranay Meshram",
+      "type": "NA",
+      "roll_no": "23236",
+      "email": "pranay23@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "https://www.linkedin.com/in/pranay-meshram-4a4a3b1b2/",
+      "github": "https://github.com/praymesh",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "id": "Mayank Srivastava",
+      "name": "Mayank Srivastava",
+      "type": "NA",
+      "roll_no": "23182",
+      "email": "mayanks23@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "https://www.linkedin.com/in/mayank-srivastava-4a4a3b1b2/",
+      "github": "https://github.com/Mayank-Srivastava-21",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "id": "Pragati Nayak",
+      "name": "Pragati Nayak",
+      "type": "NA",
+      "roll_no": "23231",
+      "email": "pragati23@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "https://www.linkedin.com/in/pragati-nayak-4a4a3b1b2/",
+      "github": "https://github.com/Pragati-Nayak23",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "id": "Chirayu Sakarkar",
+      "name": "Chirayu Sakarkar",
+      "type": "NA",
+      "roll_no": "23093",
+      "email": "chirayus23@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "https://www.linkedin.com/in/chirayu-sakarkar-4a4a3b1b2/",
+      "github": "https://github.com/Prowler0204",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "id": "Mohammedkaif Mohammedrafiq Kalagond",
+      "name": "Mohammedkaif Mohammedrafiq Kalagond",
+      "type": "NA",
+      "roll_no": "23190",
+      "email": "mohammedkaif23@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "https://www.linkedin.com/in/mohammedkaif-mohammedrafiq-kalagond-4a4a3b1b2/",
+      "github": "https://github.com/Mohammedkaif2004",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "id": "Kshetrimayum Paresh Singh",
+      "name": "Kshetrimayum Paresh Singh",
+      "type": "BS",
+      "roll_no": "23160",
+      "email": "kshetrimayum23@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "NA",
+      "github": "GitHub/LinkedIn",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "id": "Atul Sonkar",
+      "name": "Atul Sonkar",
+      "type": "NA",
+      "roll_no": "23073",
+      "email": "atulsonkar23@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "https://www.linkedin.com/in/atul-sonkar-19a4ab237?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      "github": "https://github.com/Atul-Sonkar",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "id": "Harshal Digarse",
+      "name": "Harshal Digarse",
+      "type": "BS",
+      "roll_no": "23128",
+      "email": "harshal23@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "www.linkedin.com/in/harshaldigarse",
+      "github": "GitHub/LinkedIn",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "id": "Sejal Dayma",
+      "name": "Sejal Dayma",
+      "type": "BS",
+      "roll_no": "23299",
+      "email": "sejal23@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "www.linkedin.com/in/sejaldayma",
+      "github": "GitHub/LinkedIn",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "id": "Lokesh Pareek",
+      "name": "Lokesh Pareek",
+      "type": "BS",
+      "roll_no": "23170",
+      "email": "lokesh23@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "NA",
+      "github": "https://github.com/lokesh2004-g",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "id": "Sayan Samanta",
+      "name": "Sayan Samanta",
+      "type": "BS",
+      "roll_no": "23298",
+      "email": "sayan23@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "www.linkedin.com/in/sayan-samanta-64935b2a6",
+      "github": "Github / Linkedin",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "id": "Satvik Agrawal",
+      "name": "Satvik Agrawal",
+      "type": "BS",
+      "roll_no": "23296",
+      "email": "satvik23@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "https://www.linkedin.com/in/satvik-agrawal-483a141b8",
+      "github": "GitHub/LinkedIn",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "id": "J Paul Masillamani",
+      "name": "J Paul Masillamani",
+      "type": "BS",
+      "roll_no": "23141",
+      "email": "jpaul23@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "https://www.linkedin.com/in/paul-masillamani-5b1898284?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      "github": "GitHub/LinkedIn",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "id": "Singamsetti Komal Sandeep",
+      "name": "Singamsetti Komal Sandeep",
+      "type": "BS",
+      "roll_no": "23322",
+      "email": "singamsetti23@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "https://www.linkedin.com/in/komal-singamsetti",
+      "github": "GitHub/LinkedIn",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "id": "Uddisa Kkaarthiek",
+      "name": "Uddisa Kkaarthiek",
+      "type": "BS",
+      "roll_no": "23355",
+      "email": "uddisa23@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "https://www.linkedin.com/in/kkaarthiek/",
+      "github": "GitHub/LinkedIn",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "id": "Arnav Shinganjude",
+      "name": "Arnav Shinganjude",
+      "type": "BS",
+      "roll_no": "23061",
+      "email": "arnavs23@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "https://www.linkedin.com/in/arnav-shinganjude-5601bb354?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      "github": "Github / Linkedin",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "id": "Nipun Aditya",
+      "name": "Nipun Aditya",
+      "type": "BS",
+      "roll_no": "23209",
+      "email": "nipun23@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "NA",
+      "github": "GitHub/LinkedIn",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "id": "Ranjith Anand",
+      "name": "Ranjith Anand",
+      "type": "BS",
+      "roll_no": "23266",
+      "email": "ranjith23@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "https://www.linkedin.com/in/ranjith-anand-9b5649378",
+      "github": "GitHub/LinkedIn",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "id": "Mohammad Rishan Melethil",
+      "name": "Mohammad Rishan Melethil",
+      "type": "BS",
+      "roll_no": "23188",
+      "email": "rishan23@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "https://www.linkedin.com/in/mohammad-rishan-melethil-23038a320?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      "github": "GitHub/LinkedIn",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "id": "Student_1",
+      "name": "Vanshika Gupta",
+      "type": "BS",
+      "roll_no": "23365",
+      "email": "vanshikag23@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "https://www.linkedin.com/in/pawan-kr-rajput",
+      "github": "https://github.com/Vnshiee/",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "id": "Student_2",
+      "name": "Nikhil Rathore",
+      "type": "BS",
+      "roll_no": "23208",
+      "email": "nikhi23@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "https://www.linkedin.com/in/nikhil-rathore-38b624351?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      "github": "NA",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "id": "Student_3",
+      "name": "Jay Jagannath",
+      "type": "BS",
+      "roll_no": "23145",
+      "email": "jay23@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "NA",
+      "github": "NA",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "id": "Student_4",
+      "name": "Anay Singh",
+      "type": "BS",
+      "roll_no": "23045",
+      "email": "anay23@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "NA",
+      "github": "https://github.com/crypticBard",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "id": "Student_5",
+      "name": "Tanushree Ravindra Pratap Yadav",
+      "type": "BS",
+      "roll_no": "23380",
+      "email": "yadav23@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "NA",
+      "github": "https://github.com/SinUbyCosU",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "id": "Student_6",
+      "name": "Sangam",
+      "type": "BS",
+      "roll_no": "23290",
+      "email": "sangam23@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "NA",
+      "github": "https://github.com/sam1511x",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "id": "Student_7",
+      "name": "Dev Raj",
+      "type": "BS",
+      "roll_no": "23102",
+      "email": "devraj23@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "https://www.linkedin.com/in/dev-raj-iiserb",
+      "github": "NA",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "id": "Student_8",
+      "name": "Sankul Rahate",
+      "type": "BS",
+      "roll_no": "23292",
+      "email": "sankul23@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "www.linkedin.com/in/sankul-rahate-716046227",
+      "github": "NA",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "id": "Student_9",
+      "name": "Kiranmoy Das",
+      "type": "BS",
+      "roll_no": "23156",
+      "email": "kiranmoy23@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "https://www.linkedin.com/in/kiranmoy-das-677616323/",
+      "github": "NA",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "id": "Student_10",
+      "name": "Meghna Yadav",
+      "type": "BS",
+      "roll_no": "23184",
+      "email": "meghna23@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "https://www.linkedin.com/in/meghna-yadav-9447512a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+      "github": "NA",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "id": "Student_11",
+      "name": "Lakshay Saini",
+      "type": "BS",
+      "roll_no": "23166",
+      "email": "lakshay23@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "www.linkedin.com/in/lakshayxi",
+      "github": "NA",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "id": "Student_12",
+      "name": "Kushagra Agarwal",
+      "type": "BS",
+      "roll_no": "23162",
+      "email": "kushagra23@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "NA",
+      "github": "https://github.com/KushagraAgarwal525",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "id": "Student_13",
+      "name": "Ananya Preyasi",
+      "type": "BS",
+      "roll_no": "23044",
+      "email": "ananya23@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "https://www.linkedin.com/in/ananya-preyasi-1b45ba340?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      "github": "NA",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "type": "Faculty",
+      "id": "Dr. Tanmay Basu",
+      "name": "Dr. Tanmay Basu",
+      "email": "hod_dse@iiserb.ac.in",
+      "department": "DSE",
+      "position": "Head",
+      "joined_year": "2016"
+    },
+    {
+      "id": "Data Science and Engineering",
+      "name": "Department of Data Science and Engineering",
+      "type": "Department",
+      "institute": "IISER Bhopal",
+      "hod": "Dr. Tanmay Basu"
+    },
+    {
+      "type": "Department",
+      "id": "DSE",
+      "name": "Department of Data Science and Engineering",
+      "institute": "IISER Bhopal",
+      "hod": "Dr. Tanmay Basu"
+    },
+    {
+      "name": "Director Name",
+      "type": "Faculty",
+      "id": "Director Name",
+      "email": "director@iiserb.ac.in",
+      "department": "IISER Bhopal",
+      "position": "Director"
+    },
+    {
+      "type": "Student",
+      "name": "BS-MS 5th Year",
+      "department": "DSE",
+      "institute": "IISER Bhopal",
+      "id": "BS-MS 5th Year"
+    },
+    {
+      "type": "Student",
+      "name": "BS-MS Majors (3rd Year)",
+      "department": "DSE",
+      "institute": "IISER Bhopal",
+      "id": "BS-MS Majors (3rd Year)"
+    },
+    {
+      "type": "Student",
+      "name": "BS-MS Majors (4th Year)",
+      "department": "DSE",
+      "institute": "IISER Bhopal",
+      "id": "BS-MS Majors (4th Year)"
+    },
+    {
+      "type": "PhD",
+      "name": "PhD",
+      "id": "PhD"
+    },
+    {
+      "type": "Student",
+      "name": "Alumni",
+      "department": "DSE",
+      "institute": "IISER Bhopal",
+      "id": "Alumni"
+    },
+    {
+      "name": "PhD",
+      "type": "Program",
+      "id": "/phd"
+    },
+    {
+      "name": "BS-MS 5th Year",
+      "type": "Program",
+      "id": "/bs-ms-5th-year"
+    },
+    {
+      "name": "BS-MS Majors (3rd Year)",
+      "type": "Program",
+      "id": "/bs-ms-majors-3rd-year"
+    },
+    {
+      "name": "BS-MS Majors (4th Year)",
+      "type": "Program",
+      "id": "/bs-ms-majors-4th-year"
+    },
+    {
+      "name": "Alumni",
+      "type": "Group",
+      "id": "/alumni"
+    },
+    {
+      "name": "BS-MS Majors (3rd Year)",
+      "type": "BS | MS | PhD | PostDoc",
+      "department": "Department Homepage",
+      "institute": "IISER Bhopal",
+      "id": "bs-ms-majors-3rd-year"
+    },
+    {
+      "name": "BS-MS Majors (4th Year)",
+      "type": "BS | MS | PhD | PostDoc",
+      "department": "Department Homepage",
+      "institute": "IISER Bhopal",
+      "id": "bs-ms-majors-4th-year"
+    },
+    {
+      "name": "BS-MS 5th Year",
+      "type": "BS | MS | PhD | PostDoc",
+      "department": "Department Homepage",
+      "institute": "IISER Bhopal",
+      "id": "bs-ms-5th-year"
+    },
+    {
+      "name": "Alumni",
+      "type": "BS | MS | PhD | PostDoc",
+      "department": "Department Homepage",
+      "institute": "IISER Bhopal",
+      "id": "alumni"
+    },
+    {
+      "name": "PhD",
+      "type": "BS | MS | PhD | PostDoc",
+      "department": "Department Homepage",
+      "institute": "IISER Bhopal",
+      "id": "phd"
+    },
+    {
+      "name": "Office",
+      "type": "Office",
+      "department": "Department Homepage",
+      "institute": "IISER Bhopal",
+      "id": "office"
+    },
+    {
+      "name": "Department Homepage",
+      "type": "Website",
+      "id": "department-homepage",
+      "url": "https://dse.iiserb.ac.in"
+    },
+    {
+      "name": "IISER Bhopal",
+      "type": "Institute",
+      "id": "iiser-bhopal"
+    },
+    {
+      "name": "Dr. Tanmay Basu",
+      "type": "Faculty",
+      "id": "dr-tanmay-basu",
+      "email": "hod_dse@iiserb.ac.in",
+      "department": "dse-iiserb",
+      "position": "Head"
+    },
+    {
+      "name": "hod_dse@iiserb.ac.in",
+      "type": "Faculty",
+      "department": "Department Homepage",
+      "institute": "IISER Bhopal",
+      "id": "hod-dse-iiserb-ac-in"
+    },
+    {
+      "name": "office_dse@iiserb.ac.in",
+      "type": "Faculty",
+      "department": "Department Homepage",
+      "institute": "IISER Bhopal",
+      "id": "office-dse-iiserb-ac-in"
+    },
+    {
+      "name": "3rd Year Students",
+      "type": "Student",
+      "department": "Department Homepage",
+      "institute": "IISER Bhopal",
+      "id": "3rd-year-students"
+    },
+    {
+      "type": "Department",
+      "id": "Department of Data Science and Engineering",
+      "name": "Department of Data Science and Engineering",
+      "institute": "IISER Bhopal",
+      "hod": "Dr. Tanmay Basu"
+    },
+    {
+      "name": "Department of Data Science and Engineering",
+      "id": "Department Homepage",
+      "type": "Department",
+      "institute": "IISER Bhopal",
+      "hod": "Dr. Tanmay Basu"
+    },
+    {
+      "name": "Tanishq Sharma",
+      "id": "Tanishq Sharma",
+      "type": "Student",
+      "roll_no": "22349",
+      "email": "tanishq22@iiserb.ac.in",
+      "department": "Department Homepage",
+      "supervisor": "NA"
+    },
+    {
+      "id": "P S Rishi",
+      "name": "P S Rishi",
+      "type": "BS",
+      "roll_no": "22229",
+      "email": "rishi22@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "https://www.linkedin.com/in/sarthak-srivastava",
+      "github": "https://www.linkedin.com/in/sarthak-srivastava",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "id": "Sarthak Srivastava",
+      "name": "Sarthak Srivastava",
+      "type": "BS",
+      "roll_no": "21240",
+      "email": "sarthak21@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "https://www.linkedin.com/in/sarthak-srivastava",
+      "github": "https://www.linkedin.com/in/sarthak-srivastava",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "id": "Vishal Bharti",
+      "name": "Vishal Bharti",
+      "type": "Student",
+      "roll_no": "21310",
+      "email": "vishal21@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "https://www.linkedin.com/in/vishalbhartiofficial/",
+      "github": "GitHub/LinkedIn",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "id": "Darshana Srivathsan",
+      "name": "Darshana Srivathsan",
+      "type": "Student",
+      "roll_no": "22001",
+      "email": "darshana22@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "GitHub/LinkedIn",
+      "github": "https://github.com/dsb4u",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "id": "Devesh Lalit Fegade",
+      "name": "Devesh Lalit Fegade",
+      "type": "Student",
+      "roll_no": "22104",
+      "email": "devesh22@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "https://www.linkedin.com/in/devesh-fegade-a661422b3/",
+      "github": "GitHub/LinkedIn",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "id": "Swatish Jena",
+      "name": "Swatish Jena",
+      "type": "Student",
+      "roll_no": "21376",
+      "email": "swatish21@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "GitHub/LinkedIn",
+      "github": "https://github.com/swatish434",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "id": "Rudra Prasad Tarai",
+      "name": "Rudra Prasad Tarai",
+      "type": "Student",
+      "roll_no": "22269",
+      "email": "rudra22@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "GitHub/LinkedIn",
+      "github": "https://github.com/Rudra-prasad-tarai",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "id": "Jiya Sinha",
+      "name": "Jiya Sinha",
+      "type": "Student",
+      "roll_no": "22161",
+      "email": "jiya22@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "GitHub/LinkedIn",
+      "github": "https://github.com/sinhajiya",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "id": "Aditya Dandhare",
+      "name": "Aditya Dandhare",
+      "type": "Student",
+      "roll_no": "22019",
+      "email": "aditya22@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "https://www.linkedin.com/in/aditya-dandhare-377b09294/",
+      "github": "GitHub/LinkedIn",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "id": "Anirudha Patil",
+      "name": "Anirudha Patil",
+      "type": "Student",
+      "roll_no": "22234",
+      "email": "anirudha22@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "https://www.linkedin.com/in/anirudha-patil-135447255",
+      "github": "GitHub/LinkedIn",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "id": "Pratyaksh Patel",
+      "name": "Pratyaksh Patel",
+      "type": "Student",
+      "roll_no": "22233",
+      "email": "pratyaksh22@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "GitHub/LinkedIn",
+      "github": "GitHub/LinkedIn",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "id": "Soumyadeep Gope",
+      "name": "Soumyadeep Gope",
+      "type": "Student",
+      "roll_no": "22329",
+      "email": "soumyadeepg22@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "GitHub/LinkedIn",
+      "github": "GitHub/LinkedIn",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "id": "Shailesh kachhi",
+      "name": "Shailesh kachhi",
+      "type": "Student",
+      "roll_no": "22290",
+      "email": "shailesh22@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "GitHub/LinkedIn",
+      "github": "https://github.com/Shailesh22290",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "id": "Jay Bharambe",
+      "name": "Jay Bharambe",
+      "type": "Student",
+      "roll_no": "22159",
+      "email": "jayb22@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "GitHub/LinkedIn",
+      "github": "https://github.com/jayb71",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "id": "Gudala Rushi Kesava Reddy",
+      "name": "Gudala Rushi Kesava Reddy",
+      "type": "Student",
+      "roll_no": "22135",
+      "email": "gudala22@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "GitHub/LinkedIn",
+      "github": "GitHub/LinkedIn",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "id": "2@iiserb.ac.in",
+      "name": "Ramanaboyina Joel Silas",
+      "type": "NA",
+      "roll_no": "22255",
+      "email": "ramanaboyina22@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "https://www.linkedin.com/in/ramanaboyina-joel-silas-974099325",
+      "github": "NA",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "id": "Divyansh Pathak",
+      "name": "Divyansh Pathak",
+      "type": "BS",
+      "roll_no": "22113",
+      "email": "divyansh22@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "https://github.com/tituatgithub",
+      "github": "https://github.com/tituatgithub",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "id": "Shrey Srivastava",
+      "name": "Shrey Srivastava",
+      "type": "BS",
+      "roll_no": "22303",
+      "email": "shrey22@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "https://www.linkedin.com/in/shrey-srivastava-829662248/",
+      "github": "NA",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "id": "Harsh Shukla",
+      "name": "Harsh Shukla",
+      "type": "BS",
+      "roll_no": "22140",
+      "email": "harshs22@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "http://www.linkedin.com/in/harsh-shukla-b641ab2a4",
+      "github": "NA",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "id": "Saptarshi Halder",
+      "name": "Saptarshi Halder",
+      "type": "BS",
+      "roll_no": "22283",
+      "email": "saptarshi22@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "NA",
+      "github": "https://github.com/saptarshihalder",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "id": "Rushikesh Bhosale",
+      "name": "Rushikesh Bhosale",
+      "type": "BS",
+      "roll_no": "22078",
+      "email": "bhosale22@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "https://www.linkedin.com/in/rushikesh-bhosale-77b11a2b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      "github": "NA",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "id": "Manjul Chaturvedi",
+      "name": "Manjul Chaturvedi",
+      "type": "BS",
+      "roll_no": "22194",
+      "email": "manjul22@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "https://www.linkedin.com/in/manjul-chaturvedi-949927272/=",
+      "github": "NA",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "id": "Aman Pasi",
+      "name": "Aman Pasi",
+      "type": "BS",
+      "roll_no": "22034",
+      "email": "amanp22@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "https://www.linkedin.com/in/aman-pasi-5b8a35266/",
+      "github": "NA",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "id": "Bhaisare Rohit Bhaurao",
+      "name": "Bhaisare Rohit Bhaurao",
+      "type": "BS",
+      "roll_no": "21076",
+      "email": "bhaisare21@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "https://github.com/Rohit29B",
+      "github": "https://github.com/Rohit29B",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "id": "Manish Kumar Meena",
+      "name": "Manish Kumar Meena",
+      "type": "BS",
+      "roll_no": "21162",
+      "email": "manishk21@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "https://github.com/Manish03M target=",
+      "github": "https://github.com/Manish03M target=",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "id": "Saurabh Shinde",
+      "name": "Saurabh Shinde",
+      "type": "BS",
+      "roll_no": "22296",
+      "email": "shinde22@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "https://www.linkedin.com/in/saurabh-shinde-b2451824a",
+      "github": "NA",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "id": "Nandhana K S",
+      "name": "Nandhana K S",
+      "type": "BS",
+      "roll_no": "22215",
+      "email": "nandhana22@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "https://www.linkedin.com/in/nandhana-k-s-a39028261)",
+      "github": "Github/Linkedin",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "id": "Sakshi Tiwari",
+      "name": "Sakshi Tiwari",
+      "type": "BS",
+      "roll_no": "22275",
+      "email": "sakshi22@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "https://www.linkedin.com/in/sakshi-tiwari-921253257",
+      "github": "NA",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "id": "akshi22",
+      "name": "Sakshi Tiwari",
+      "type": "BS",
+      "roll_no": "NA",
+      "email": "akshi22@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "https://www.linkedin.com/in/sakshi-tiwari-921253257",
+      "github": "https://www.linkedin.com/in/sakshi-tiwari-921253257",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "id": "Shreyash Gaikwad",
+      "name": "Shreyash Gaikwad",
+      "type": "BS",
+      "roll_no": "22125",
+      "email": "gaikwad22@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "NA",
+      "github": "NA",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "id": "Ashish Raj",
+      "name": "Ashish Raj",
+      "type": "BS",
+      "roll_no": "22061",
+      "email": "ashishraj22@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "https://www.linkedin.com/in/ashish-raj-838330266",
+      "github": "https://www.linkedin.com/in/ashish-raj-838330266",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "id": "Rashi Bhardo",
+      "name": "Rashi Bhardo",
+      "type": "BS",
+      "roll_no": "22256",
+      "email": "rashi22@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "https://www.linkedin.com/in/rashi-bhardo",
+      "github": "https://github.com/bhardor",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "id": "Peddinti Hari Krishna",
+      "name": "Peddinti Hari Krishna",
+      "type": "BS",
+      "roll_no": "22236",
+      "email": "peddinti22@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "https://www.linkedin.com/in/hari-krishna-peddinti-58975222a",
+      "github": "https://www.linkedin.com/in/hari-krishna-peddinti-58975222a",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "id": "Chaitanya Shinde",
+      "name": "Chaitanya Shinde",
+      "type": "BS",
+      "roll_no": "22085",
+      "email": "chaitanya22@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "https://www.linkedin.com/in/chaitanya-shinde-476429136",
+      "github": "https://www.linkedin.com/in/chaitanya-shinde-476429136",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "id": "Dev Raj Singh",
+      "name": "Dev Raj Singh",
+      "type": "BS",
+      "roll_no": "22102",
+      "email": "devraj22@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav",
+      "github": "https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "id": "HIBA K T",
+      "name": "HIBA K T",
+      "type": "BS",
+      "roll_no": "22146",
+      "email": "hiba22@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "https://www.linkedin.com/in/hiba-k-t-10182b317",
+      "github": "https://www.linkedin.com/in/hiba-k-t-10182b317",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "id": "Vivek Kumar",
+      "name": "Vivek Kumar",
+      "type": "BS",
+      "roll_no": "22373",
+      "email": "vivekk22@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "https://github.com/VivekSinghRathore7",
+      "github": "https://github.com/VivekSinghRathore7",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "id": "Nayana Barai",
+      "name": "Nayana Barai",
+      "type": "BS",
+      "roll_no": "21182",
+      "email": "nayana21@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "www.linkedin.com/in/nayana-barai-617a13259",
+      "github": "www.linkedin.com/in/nayana-barai-617a13259",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "id": "Arpan Jain",
+      "name": "Arpan Jain",
+      "type": "BS",
+      "roll_no": "22056",
+      "email": "arpan22@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "https://www.linkedin.com/in/arpan-jain-iiserb",
+      "github": "https://www.linkedin.com/in/arpan-jain-iiserb",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "id": "Madhav B panicker",
+      "name": "Madhav B panicker",
+      "type": "BS",
+      "roll_no": "22187",
+      "email": "madhav22@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "https://github.com/madhavbpanicker",
+      "github": "https://github.com/madhavbpanicker",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "id": "A",
+      "name": "Ramanaboyina Joel Silas",
+      "type": "BS",
+      "roll_no": "NA",
+      "email": "NA",
+      "department": "NA",
+      "linkedin": "https://www.linkedin.com/in/ramanaboyina-joel-silas-974099325?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      "github": "NA",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "id": "22061",
+      "name": "Ashish Raj",
+      "type": "BS",
+      "roll_no": "22061",
+      "email": "ashishraj22@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "https://www.linkedin.com/in/ashish-raj-838330266/",
+      "github": "NA",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "id": "22256",
+      "name": "Rashi Bhardo",
+      "type": "BS",
+      "roll_no": "22256",
+      "email": "rashi22@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "NA",
+      "github": "https://github.com/bhardor",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "id": "22236",
+      "name": "Peddinti Hari Krishna",
+      "type": "BS",
+      "roll_no": "22236",
+      "email": "peddinti22@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "https://www.linkedin.com/in/hari-krishna-peddinti-58975222a/",
+      "github": "NA",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "id": "22085",
+      "name": "Chaitanya Shinde",
+      "type": "BS",
+      "roll_no": "22085",
+      "email": "chaitanya22@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "https://www.linkedin.com/in/chaitanya-shinde-476429136/",
+      "github": "NA",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "id": "22102",
+      "name": "Dev Raj Singh",
+      "type": "BS",
+      "roll_no": "22102",
+      "email": "devraj22@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav",
+      "github": "NA",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "id": "22146",
+      "name": "HIBA K T",
+      "type": "BS",
+      "roll_no": "22146",
+      "email": "hiba22@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "https://www.linkedin.com/in/hiba-k-t-10182b317/",
+      "github": "NA",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "id": "22373",
+      "name": "Vivek Kumar",
+      "type": "BS",
+      "roll_no": "22373",
+      "email": "vivekk22@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "NA",
+      "github": "https://github.com/VivekSinghRathore7",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "id": "21182",
+      "name": "Nayana Barai",
+      "type": "BS",
+      "roll_no": "21182",
+      "email": "nayana21@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "www.linkedin.com/in/nayana-barai-617a13259",
+      "github": "NA",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "id": "22056",
+      "name": "Arpan Jain",
+      "type": "BS",
+      "roll_no": "22056",
+      "email": "arpan22@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "https://www.linkedin.com/in/arpan-jain-iiserb",
+      "github": "NA",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "id": "22187",
+      "name": "Madhav B panicker",
+      "type": "BS",
+      "roll_no": "22187",
+      "email": "madhav22@iiserb.ac.in",
+      "department": "NA",
+      "linkedin": "NA",
+      "github": "https://github.com/madhavbpanicker",
+      "research_group": "NA",
+      "guide": "NA"
+    },
+    {
+      "type": "BS-MS",
+      "id": "4th Year Students",
+      "name": "4th Year Students",
+      "department": "DSE"
+    },
+    {
+      "name": "office_dse@iiserb.ac.in",
+      "type": "Email",
+      "id": "office_dse@iiserb.ac.in",
+      "department": "DSE"
+    },
+    {
+      "name": "Department Homepage",
+      "type": "Website",
+      "id": "https://dse.iiserb.ac.in",
+      "department": "DSE"
+    },
+    {
+      "type": "Student",
+      "name": "DSE Students IISER Bhopal",
+      "department": "DSE",
+      "institute": "IISER Bhopal",
+      "id": "DSE Students IISER Bhopal"
+    },
+    {
+      "id": "Aryan Mishra",
+      "name": "Aryan Mishra",
+      "type": "Student",
+      "roll_no": "21056",
+      "email": "aryan21@iiserb.ac.in",
+      "department": "Data Science and Engineering",
+      "linkedin": null,
+      "github": null,
+      "research_group": null,
+      "guide": "Dr. Akash Anil"
+    },
+    {
+      "id": "Prasanna D Kharode",
+      "name": "Prasanna D Kharode",
+      "type": "Student",
+      "roll_no": "21144",
+      "email": "kharode21@iiserb.ac.in",
+      "department": "Data Science and Engineering",
+      "linkedin": null,
+      "github": null,
+      "research_group": null,
+      "guide": "Dr. Akash Anil"
+    },
+    {
+      "id": "Debasmita Panda",
+      "name": "Debasmita Panda",
+      "type": "Student",
+      "roll_no": "21326",
+      "email": "debasmitap21@iiserb.ac.in",
+      "department": "Data Science and Engineering",
+      "linkedin": null,
+      "github": "https://github.com/debby123p",
+      "research_group": null,
+      "guide": "Dr. Akash Anil"
+    },
+    {
+      "id": "Sharayu Borade",
+      "name": "Sharayu Borade",
+      "type": "Student",
+      "roll_no": "21080",
+      "email": "borade21@iiserb.ac.in",
+      "department": "Data Science and Engineering",
+      "linkedin": null,
+      "github": "https://github.com/Sharayuborade5",
+      "research_group": null,
+      "guide": "Dr. Akshay Agarwal"
+    },
+    {
+      "id": "Gurleen Kaur",
+      "name": "Gurleen Kaur",
+      "type": "Student",
+      "roll_no": "21120",
+      "email": "gurleen21@iiserb.ac.in",
+      "department": "Data Science and Engineering",
+      "linkedin": null,
+      "github": null,
+      "research_group": null,
+      "guide": "Dr. Akshay Agarwal"
+    },
+    {
+      "id": "Khushi Chaudhari",
+      "name": "Khushi Chaudhari",
+      "type": "Student",
+      "roll_no": "21084",
+      "email": "khushi21@iiserb.ac.in",
+      "department": "Data Science and Engineering",
+      "linkedin": "http://www.linkedin.com/in/khushi-chaudhari-925483238",
+      "github": null,
+      "research_group": null,
+      "guide": "Dr. Akshay Agarwal"
+    },
+    {
+      "id": "Gargi Surendra Yeole",
+      "name": "Gargi Surendra Yeole",
+      "type": "Student",
+      "roll_no": "21110",
+      "email": "surendra21@iiserb.ac.in",
+      "department": "Data Science and Engineering",
+      "linkedin": null,
+      "github": "https://github.com/GargiYeole",
+      "research_group": null,
+      "guide": "Dr. Akshay Agarwal"
+    },
+    {
+      "id": "Dr. Akash Anil",
+      "name": "Dr. Akash Anil",
+      "type": "Faculty",
+      "email": null,
+      "department": "Data Science and Engineering",
+      "position": null,
+      "joined_year": null
+    },
+    {
+      "id": "Dr. Akshay Agarwal",
+      "name": "Dr. Akshay Agarwal",
+      "type": "Faculty",
+      "email": null,
+      "department": "Data Science and Engineering",
+      "position": null,
+      "joined_year": null
+    },
+    {
+      "type": "Student",
+      "id": "Shivam Chopra",
+      "name": "Shivam Chopra",
+      "roll_no": "21338",
+      "email": "shivamc21@iiserb.ac.in",
+      "department": "DSE",
+      "linkedin": "https://www.linkedin.com/in/shivam-chopra-6703b9229",
+      "github": "https://github.com/",
+      "research_group": "",
+      "guide": "Dr. Vaibhav Kumar"
+    },
+    {
+      "type": "Student",
+      "id": "Suchetan G U",
+      "name": "Suchetan G U",
+      "roll_no": "21342",
+      "email": "suchetan21@iiserb.ac.in",
+      "department": "DSE",
+      "linkedin": "https://www.linkedin.com/in/suchetan-g-u-6703b9229",
+      "github": "https://github.com/",
+      "research_group": "",
+      "guide": "Dr. Vaibhav Kumar"
+    },
+    {
+      "type": "Student",
+      "id": "Porus Vaid",
+      "name": "Porus Vaid",
+      "roll_no": "21208",
+      "email": "porus21@iiserb.ac.in",
+      "department": "DSE",
+      "linkedin": "https://www.linkedin.com/in/porus-vaid-6703b9229",
+      "github": "https://github.com/",
+      "research_group": "",
+      "guide": "Dr. Vaibhav Kumar"
+    },
+    {
+      "type": "Student",
+      "id": "Aditya Kumar Singh",
+      "name": "Aditya Kumar Singh",
+      "roll_no": "21012",
+      "email": "adityas21@iiserb.ac.in",
+      "department": "DSE",
+      "linkedin": "https://www.linkedin.com/in/aditya-kumar-singh-6703b9229",
+      "github": "https://github.com/",
+      "research_group": "",
+      "guide": "Dr. Vinod K Kurmi"
+    },
+    {
+      "type": "Student",
+      "id": "Aditya Manoj",
+      "name": "Aditya Manoj",
+      "roll_no": "21347",
+      "email": "adityam21@iiserb.ac.in",
+      "department": "DSE",
+      "linkedin": "https://www.linkedin.com/in/aditya-manoj-6703b9229",
+      "github": "https://github.com/Equin0x909",
+      "research_group": "",
+      "guide": "Dr. Sundaram Muthu"
+    },
+    {
+      "type": "Faculty",
+      "id": "Dr. Vaibhav Kumar",
+      "name": "Dr. Vaibhav Kumar",
+      "email": "",
+      "department": "DSE",
+      "position": "",
+      "joined_year": ""
+    },
+    {
+      "type": "Faculty",
+      "id": "Dr. Vinod K Kurmi",
+      "name": "Dr. Vinod K Kurmi",
+      "email": "",
+      "department": "DSE",
+      "position": "",
+      "joined_year": ""
+    },
+    {
+      "type": "Faculty",
+      "id": "Dr. Sundaram Muthu",
+      "name": "Dr. Sundaram Muthu",
+      "email": "",
+      "department": "DSE",
+      "position": "",
+      "joined_year": ""
+    },
+    {
+      "type": "PhD",
+      "id": "SE Students IISER Bhopal",
+      "name": "SE Students IISER Bhopal",
+      "roll_no": "5th Year",
+      "email": "office_dse@iiserb.ac.in",
+      "department": "DSE",
+      "linkedin": null,
+      "github": null,
+      "research_group": null,
+      "guide": "Dr. Tanmay Basu"
+    },
+    {
+      "name": "DSE Students IISER Bhopal",
+      "type": "Department",
+      "id": "dse-iiserb",
+      "institute": "iiserb",
+      "hod": "Dr. Tanmay Basu"
+    },
+    {
+      "name": "Office: +91 755 269 566",
+      "type": "Office",
+      "id": "office-dse",
+      "email": "office_dse@iiserb.ac.in"
+    },
+    {
+      "type": "Department",
+      "id": "dse",
+      "name": "Data Science and Engineering",
+      "institute": "iiserb",
+      "hod": "Tanmay Basu"
+    },
+    {
+      "type": "Faculty",
+      "id": "Tanmay Basu",
+      "name": "Tanmay Basu",
+      "email": "hod_dse@iiserb.ac.in",
+      "department": "dse",
+      "position": "Head",
+      "joined_year": null
+    }
+  ],
+  "edges": [
+    {
+      "relation": "belongsTo",
+      "from": "vaibhav",
+      "to": "DSE"
+    },
+    {
+      "relation": "heads",
+      "from": "vaibhav",
+      "to": "DSE"
+    },
+    {
+      "relation": "belongsTo",
+      "from": "tanmay",
+      "to": "DSE"
+    },
+    {
+      "relation": "heads",
+      "from": "tanmay",
+      "to": "DSE"
+    },
+    {
+      "relation": "belongsTo",
+      "from": "jasabanta",
+      "to": "DSE"
+    },
+    {
+      "relation": "belongsTo",
+      "from": "vinod",
+      "to": "DSE"
+    },
+    {
+      "relation": "belongsTo",
+      "from": "akshay",
+      "to": "DSE"
+    },
+    {
+      "relation": "belongsTo",
+      "from": "samiran",
+      "to": "DSE"
+    },
+    {
+      "relation": "heads",
+      "from": "Samiran Das",
+      "to": "Computer Science"
+    },
+    {
+      "relation": "heads",
+      "from": "Akash Anil",
+      "to": "Computer Science"
+    },
+    {
+      "relation": "heads",
+      "from": "Sundaram Muthu",
+      "to": "Computer Science"
+    },
+    {
+      "relation": "guidedBy",
+      "from": "Shubhi Gehlot",
+      "to": "Akshay Agarwal"
+    },
+    {
+      "relation": "memberOf",
+      "from": "Shubhi Gehlot",
+      "to": "Computer Science"
+    },
+    {
+      "relation": "guidedBy",
+      "from": "Bhanu Pratap Paregi",
+      "to": "Vaibhav kumar"
+    },
+    {
+      "relation": "memberOf",
+      "from": "Bhanu Pratap Paregi",
+      "to": "Computer Science"
+    },
+    {
+      "relation": "guidedBy",
+      "from": "Prateek Sarangi",
+      "to": "Tanmay Basu"
+    },
+    {
+      "relation": "memberOf",
+      "from": "Prateek Sarangi",
+      "to": "Computer Science"
+    },
+    {
+      "relation": "guidedBy",
+      "from": "Ramen Ghosh",
+      "to": "Samiran Das"
+    },
+    {
+      "relation": "memberOf",
+      "from": "Ramen Ghosh",
+      "to": "Computer Science"
+    },
+    {
+      "relation": "guidedBy",
+      "from": "kunal24",
+      "to": "Dr. Vinod K Kurmi"
+    },
+    {
+      "relation": "memberOf",
+      "from": "kunal24",
+      "to": "research group ID"
+    },
+    {
+      "relation": "guidedBy",
+      "from": "poulomi24",
+      "to": "Dr. Akshay Agarwal"
+    },
+    {
+      "relation": "memberOf",
+      "from": "poulomi24",
+      "to": "research group ID"
+    },
+    {
+      "relation": "guidedBy",
+      "from": "saarthi24",
+      "to": "Dr. Akshay Agarwal"
+    },
+    {
+      "relation": "memberOf",
+      "from": "saarthi24",
+      "to": "research group ID"
+    },
+    {
+      "relation": "guidedBy",
+      "from": "ayushg24",
+      "to": "Dr. Jasabanta Patro"
+    },
+    {
+      "relation": "memberOf",
+      "from": "ayushg24",
+      "to": "research group ID"
+    },
+    {
+      "relation": "guidedBy",
+      "from": "pavanrajak",
+      "to": "Dr. Akshay Agarwal"
+    },
+    {
+      "relation": "memberOf",
+      "from": "pavanrajak",
+      "to": "research group ID"
+    },
+    {
+      "relation": "guidedBy",
+      "from": "atulk23",
+      "to": "Dr. Akshay Agarwal"
+    },
+    {
+      "relation": "memberOf",
+      "from": "atulk23",
+      "to": "research group ID"
+    },
+    {
+      "relation": "guidedBy",
+      "from": "shivangir23",
+      "to": "Dr. Vinod K Kurmi"
+    },
+    {
+      "relation": "memberOf",
+      "from": "shivangir23",
+      "to": "research group ID"
+    },
+    {
+      "relation": "guidedBy",
+      "from": "hemantpramanick",
+      "to": "Dr. Vaibhav Kumar"
+    },
+    {
+      "relation": "memberOf",
+      "from": "hemantpramanick",
+      "to": "research group ID"
+    },
+    {
+      "relation": "guidedBy",
+      "from": "surajk",
+      "to": "Dr. Vaibhav Kumar"
+    },
+    {
+      "relation": "memberOf",
+      "from": "surajk",
+      "to": "research group ID"
+    },
+    {
+      "relation": "belongsTo",
+      "from": "suraj23",
+      "to": "department ID"
+    },
+    {
+      "relation": "guidedBy",
+      "from": "suraj23",
+      "to": "Dr. Vaibhav Kumar"
+    },
+    {
+      "relation": "partOf",
+      "from": "department ID",
+      "to": "Institute ID"
+    },
+    {
+      "relation": "belongsTo",
+      "from": "sumit",
+      "to": "department ID"
+    },
+    {
+      "relation": "guidedBy",
+      "from": "sumit",
+      "to": "Dr. Tanmay Basu"
+    },
+    {
+      "relation": "belongsTo",
+      "from": "prachi",
+      "to": "department ID"
+    },
+    {
+      "relation": "guidedBy",
+      "from": "prachi",
+      "to": "Dr. Vaibhav Kumar"
+    },
+    {
+      "relation": "belongsTo",
+      "from": "akanksha",
+      "to": "department ID"
+    },
+    {
+      "relation": "guidedBy",
+      "from": "akanksha",
+      "to": "Dr. Vinod k Kurmi"
+    },
+    {
+      "relation": "belongsTo",
+      "from": "rasel23",
+      "to": "department ID"
+    },
+    {
+      "relation": "guidedBy",
+      "from": "rasel23",
+      "to": "Dr. Tanmay Basu"
+    },
+    {
+      "relation": "belongsTo",
+      "from": "parinita",
+      "to": "department ID"
+    },
+    {
+      "relation": "guidedBy",
+      "from": "parinita",
+      "to": "Dr. Vinod K. Kurmi"
+    },
+    {
+      "relation": "belongsTo",
+      "from": "vishesh",
+      "to": "department ID"
+    },
+    {
+      "relation": "guidedBy",
+      "from": "vishesh",
+      "to": "Dr. Akshay Agarwal"
+    },
+    {
+      "relation": "belongsTo",
+      "from": "pyarelal",
+      "to": "department ID"
+    },
+    {
+      "relation": "guidedBy",
+      "from": "pyarelal",
+      "to": "Dr. Vaibhav Kumar"
+    },
+    {
+      "relation": "belongsTo",
+      "from": "rajeev",
+      "to": "department ID"
+    },
+    {
+      "relation": "guidedBy",
+      "from": "rajeev",
+      "to": "Dr. Vinod k. Kurmi"
+    },
+    {
+      "relation": "belongsTo",
+      "from": "debajyoti",
+      "to": "department ID"
+    },
+    {
+      "relation": "heads",
+      "from": "Faculty",
+      "to": "Department"
+    },
+    {
+      "relation": "guidedBy",
+      "from": "Student",
+      "to": "Faculty"
+    },
+    {
+      "relation": "belongsTo",
+      "from": "Student",
+      "to": "Department"
+    },
+    {
+      "relation": "memberOf",
+      "from": "Student",
+      "to": "ResearchGroup"
+    },
+    {
+      "relation": "partOf",
+      "from": "Department",
+      "to": "Institute"
+    },
+    {
+      "relation": "heads",
+      "from": "Faculty",
+      "to": "ResearchGroup"
+    },
+    {
+      "relation": "partOf",
+      "from": "Department of Computer Science",
+      "to": "Institute ID"
+    },
+    {
+      "relation": "heads",
+      "from": "Faculty ID",
+      "to": "GeoAI4Cities Lab"
+    },
+    {
+      "relation": "heads",
+      "from": "Faculty ID",
+      "to": "ISHA Lab"
+    },
+    {
+      "relation": "partOf",
+      "from": "Department of Biological Sciences",
+      "to": "Institute ID"
+    },
+    {
+      "relation": "heads",
+      "from": "Faculty ID",
+      "to": "BDS Lab"
+    },
+    {
+      "relation": "belongsTo",
+      "from": "Faculty ID",
+      "to": "Department of Computer Science"
+    },
+    {
+      "relation": "belongsTo",
+      "from": "Faculty ID",
+      "to": "Department of Biological Sciences"
+    },
+    {
+      "relation": "partOf",
+      "from": "bbmed0",
+      "to": "Computer Science"
+    },
+    {
+      "relation": "heads",
+      "from": "Faculty ID",
+      "to": "bbmed0"
+    },
+    {
+      "relation": "partOf",
+      "from": "visdom",
+      "to": "Computer Science"
+    },
+    {
+      "relation": "heads",
+      "from": "Faculty ID",
+      "to": "visdom"
+    },
+    {
+      "relation": "partOf",
+      "from": "trustworthy_biometravision_lab",
+      "to": "Computer Science"
+    },
+    {
+      "relation": "heads",
+      "from": "Faculty ID",
+      "to": "trustworthy_biometravision_lab"
+    },
+    {
+      "relation": "partOf",
+      "from": "Computer Science",
+      "to": "iiserb"
+    },
+    {
+      "relation": "partOf",
+      "from": "computer_science",
+      "to": "iiserb"
+    },
+    {
+      "relation": "heads",
+      "from": "Faculty ID",
+      "to": "computer_science"
+    },
+    {
+      "relation": "belongsTo",
+      "from": "SoDAL Lab",
+      "to": "IISER Bhopal"
+    },
+    {
+      "relation": "heads",
+      "from": "Akash Anil",
+      "to": "SoDAL Lab"
+    },
+    {
+      "relation": "belongsTo",
+      "from": "Robotic Perception and Embodied Intelligence Lab",
+      "to": "IISER Bhopal"
+    },
+    {
+      "relation": "heads",
+      "from": "Sundaram Muthu",
+      "to": "Robotic Perception and Embodied Intelligence Lab"
+    },
+    {
+      "relation": "partOf",
+      "from": "IISER Bhopal",
+      "to": "Indian Institute of Science"
+    },
+    {
+      "relation": "belongsTo",
+      "from": "Student_1",
+      "to": "Department_1"
+    },
+    {
+      "relation": "memberOf",
+      "from": "Student_1",
+      "to": "ResearchGroup_1"
+    },
+    {
+      "relation": "belongsTo",
+      "from": "Student_2",
+      "to": "Department_1"
+    },
+    {
+      "relation": "memberOf",
+      "from": "Student_2",
+      "to": "ResearchGroup_1"
+    },
+    {
+      "relation": "belongsTo",
+      "from": "Student_3",
+      "to": "Department_1"
+    },
+    {
+      "relation": "memberOf",
+      "from": "Student_3",
+      "to": "ResearchGroup_1"
+    },
+    {
+      "relation": "belongsTo",
+      "from": "Student_4",
+      "to": "Department_1"
+    },
+    {
+      "relation": "memberOf",
+      "from": "Student_4",
+      "to": "ResearchGroup_1"
+    },
+    {
+      "relation": "belongsTo",
+      "from": "Student_5",
+      "to": "Department_1"
+    },
+    {
+      "relation": "memberOf",
+      "from": "Student_5",
+      "to": "ResearchGroup_1"
+    },
+    {
+      "relation": "belongsTo",
+      "from": "Student_6",
+      "to": "Department_1"
+    },
+    {
+      "relation": "memberOf",
+      "from": "Student_6",
+      "to": "ResearchGroup_1"
+    },
+    {
+      "relation": "belongsTo",
+      "from": "Student_7",
+      "to": "Department_1"
+    },
+    {
+      "relation": "memberOf",
+      "from": "Student_7",
+      "to": "ResearchGroup_1"
+    },
+    {
+      "relation": "belongsTo",
+      "from": "Student_8",
+      "to": "Department_1"
+    },
+    {
+      "relation": "memberOf",
+      "from": "Student_8",
+      "to": "ResearchGroup_1"
+    },
+    {
+      "relation": "belongsTo",
+      "from": "Student_9",
+      "to": "Department_1"
+    },
+    {
+      "relation": "memberOf",
+      "from": "Student_9",
+      "to": "ResearchGroup_1"
+    },
+    {
+      "relation": "belongsTo",
+      "from": "Student_10",
+      "to": "Department_1"
+    },
+    {
+      "relation": "memberOf",
+      "from": "Student_10",
+      "to": "ResearchGroup_1"
+    },
+    {
+      "relation": "belongsTo",
+      "from": "Student_11",
+      "to": "Department_1"
+    },
+    {
+      "relation": "memberOf",
+      "from": "Student_11",
+      "to": "ResearchGroup_1"
+    },
+    {
+      "relation": "belongsTo",
+      "from": "Student_12",
+      "to": "Department_1"
+    },
+    {
+      "relation": "memberOf",
+      "from": "Student_12",
+      "to": "ResearchGroup_1"
+    },
+    {
+      "relation": "belongsTo",
+      "from": "Student_13",
+      "to": "Department_1"
+    },
+    {
+      "relation": "memberOf",
+      "from": "Student_13",
+      "to": "ResearchGroup_1"
+    },
+    {
+      "relation": "heads",
+      "from": "Dr. Tanmay Basu",
+      "to": "Data Science and Engineering"
+    },
+    {
+      "relation": "partOf",
+      "from": "Data Science and Engineering",
+      "to": "IISER Bhopal"
+    },
+    {
+      "relation": "partOf",
+      "from": "DSE",
+      "to": "IISER Bhopal"
+    },
+    {
+      "relation": "heads",
+      "from": "Dr. Tanmay Basu",
+      "to": "DSE"
+    },
+    {
+      "relation": "partOf",
+      "from": "IISER Bhopal",
+      "to": "Director Name"
+    },
+    {
+      "relation": "memberOf",
+      "from": "BS-MS 5th Year",
+      "to": "Research Group ID"
+    },
+    {
+      "relation": "guidedBy",
+      "from": "BS-MS 5th Year",
+      "to": "Faculty ID"
+    },
+    {
+      "relation": "memberOf",
+      "from": "BS-MS Majors (3rd Year)",
+      "to": "Research Group ID"
+    },
+    {
+      "relation": "guidedBy",
+      "from": "BS-MS Majors (3rd Year)",
+      "to": "Faculty ID"
+    },
+    {
+      "relation": "memberOf",
+      "from": "BS-MS Majors (4th Year)",
+      "to": "Research Group ID"
+    },
+    {
+      "relation": "guidedBy",
+      "from": "BS-MS Majors (4th Year)",
+      "to": "Faculty ID"
+    },
+    {
+      "relation": "memberOf",
+      "from": "PhD",
+      "to": "Research Group ID"
+    },
+    {
+      "relation": "guidedBy",
+      "from": "PhD",
+      "to": "Faculty ID"
+    },
+    {
+      "relation": "memberOf",
+      "from": "Alumni",
+      "to": "Research Group ID"
+    },
+    {
+      "relation": "guidedBy",
+      "from": "Alumni",
+      "to": "Faculty ID"
+    },
+    {
+      "relation": "partOf",
+      "from": "IISER Bhopal",
+      "to": "Department"
+    },
+    {
+      "relation": "heads",
+      "from": "Dr. Tanmay Basu",
+      "to": "Department"
+    },
+    {
+      "relation": "guidedBy",
+      "from": "Student",
+      "to": "Dr. Tanmay Basu"
+    },
+    {
+      "relation": "memberOf",
+      "from": "Student",
+      "to": "Research Group"
+    },
+    {
+      "relation": "belongsTo",
+      "from": "/phd",
+      "to": "IISER Bhopal"
+    },
+    {
+      "relation": "partOf",
+      "from": "/phd",
+      "to": "DSE Students IISER Bhopal"
+    },
+    {
+      "relation": "partOf",
+      "from": "/bs-ms-5th-year",
+      "to": "DSE Students IISER Bhopal"
+    },
+    {
+      "relation": "partOf",
+      "from": "/bs-ms-majors-3rd-year",
+      "to": "DSE Students IISER Bhopal"
+    },
+    {
+      "relation": "partOf",
+      "from": "/bs-ms-majors-4th-year",
+      "to": "DSE Students IISER Bhopal"
+    },
+    {
+      "relation": "memberOf",
+      "from": "/alumni",
+      "to": "DSE Students IISER Bhopal"
+    },
+    {
+      "relation": "belongsTo",
+      "from": "bs-ms-majors-3rd-year",
+      "to": "Department Homepage"
+    },
+    {
+      "relation": "partOf",
+      "from": "Department Homepage",
+      "to": "IISER Bhopal"
+    },
+    {
+      "relation": "belongsTo",
+      "from": "bs-ms-majors-4th-year",
+      "to": "Department Homepage"
+    },
+    {
+      "relation": "belongsTo",
+      "from": "bs-ms-5th-year",
+      "to": "Department Homepage"
+    },
+    {
+      "relation": "belongsTo",
+      "from": "alumni",
+      "to": "Department Homepage"
+    },
+    {
+      "relation": "belongsTo",
+      "from": "phd",
+      "to": "Department Homepage"
+    },
+    {
+      "relation": "belongsTo",
+      "from": "office",
+      "to": "Department Homepage"
+    },
+    {
+      "relation": "partOf",
+      "from": "department-homepage",
+      "to": "IISER Bhopal"
+    },
+    {
+      "relation": "heads",
+      "from": "dr-tanmay-basu",
+      "to": "Department Homepage"
+    },
+    {
+      "relation": "heads",
+      "from": "hod-dse-iiserb-ac-in",
+      "to": "Department Homepage"
+    },
+    {
+      "relation": "heads",
+      "from": "office-dse-iiserb-ac-in",
+      "to": "Department Homepage"
+    },
+    {
+      "relation": "memberOf",
+      "from": "3rd-year-students",
+      "to": "Department Homepage"
+    },
+    {
+      "relation": "partOf",
+      "from": "IISER Bhopal",
+      "to": "Department of Data Science and Engineering"
+    },
+    {
+      "relation": "belongsTo",
+      "from": "Department of Data Science and Engineering",
+      "to": "IISER Bhopal"
+    },
+    {
+      "relation": "heads",
+      "from": "Dr. Tanmay Basu",
+      "to": "Department of Data Science and Engineering"
+    },
+    {
+      "relation": "guidedBy",
+      "from": "Dr. Tanmay Basu",
+      "to": "Dr. Tanmay Basu"
+    },
+    {
+      "relation": "heads",
+      "from": "Dr. Tanmay Basu",
+      "to": "Department Homepage"
+    },
+    {
+      "relation": "belongsTo",
+      "from": "Tanishq Sharma",
+      "to": "Department Homepage"
+    },
+    {
+      "relation": "heads",
+      "from": "P S Rishi",
+      "to": "NA"
+    },
+    {
+      "relation": "guidedBy",
+      "from": "Sarthak Srivastava",
+      "to": "P S Rishi"
+    },
+    {
+      "relation": "memberOf",
+      "from": "4th Year Students",
+      "to": "DSE"
+    },
+    {
+      "relation": "belongsTo",
+      "from": "DSE",
+      "to": "IISER Bhopal"
+    },
+    {
+      "relation": "memberOf",
+      "from": "DSE Students IISER Bhopal",
+      "to": "DSE"
+    },
+    {
+      "relation": "memberOf",
+      "from": "PhD",
+      "to": "DSE"
+    },
+    {
+      "relation": "memberOf",
+      "from": "BS-MS 5th Year",
+      "to": "DSE"
+    },
+    {
+      "relation": "memberOf",
+      "from": "BS-MS Majors (3rd Year)",
+      "to": "DSE"
+    },
+    {
+      "relation": "memberOf",
+      "from": "BS-MS Majors (4th Year)",
+      "to": "DSE"
+    },
+    {
+      "relation": "memberOf",
+      "from": "Alumni",
+      "to": "DSE"
+    },
+    {
+      "relation": "partOf",
+      "from": "PhD",
+      "to": "DSE"
+    },
+    {
+      "relation": "partOf",
+      "from": "BS-MS 5th Year",
+      "to": "DSE"
+    },
+    {
+      "relation": "partOf",
+      "from": "BS-MS Majors (3rd Year)",
+      "to": "DSE"
+    },
+    {
+      "relation": "partOf",
+      "from": "BS-MS Majors (4th Year)",
+      "to": "DSE"
+    },
+    {
+      "relation": "partOf",
+      "from": "Alumni",
+      "to": "DSE"
+    },
+    {
+      "relation": "belongsTo",
+      "from": "office_dse@iiserb.ac.in",
+      "to": "DSE"
+    },
+    {
+      "relation": "belongsTo",
+      "from": "Department Homepage",
+      "to": "DSE"
+    },
+    {
+      "relation": "belongsTo",
+      "from": "DSE Students IISER Bhopal",
+      "to": "DSE"
+    },
+    {
+      "relation": "guidedBy",
+      "from": "PhD",
+      "to": "DSE Students IISER Bhopal"
+    },
+    {
+      "relation": "belongsTo",
+      "from": "BS-MS 5th Year",
+      "to": "DSE"
+    },
+    {
+      "relation": "guidedBy",
+      "from": "BS-MS 5th Year",
+      "to": "DSE Students IISER Bhopal"
+    },
+    {
+      "relation": "belongsTo",
+      "from": "BS-MS Majors (3rd Year)",
+      "to": "DSE"
+    },
+    {
+      "relation": "guidedBy",
+      "from": "BS-MS Majors (3rd Year)",
+      "to": "DSE Students IISER Bhopal"
+    },
+    {
+      "relation": "belongsTo",
+      "from": "BS-MS Majors (4th Year)",
+      "to": "DSE"
+    },
+    {
+      "relation": "guidedBy",
+      "from": "BS-MS Majors (4th Year)",
+      "to": "DSE Students IISER Bhopal"
+    },
+    {
+      "relation": "belongsTo",
+      "from": "Alumni",
+      "to": "DSE"
+    },
+    {
+      "relation": "guidedBy",
+      "from": "Alumni",
+      "to": "DSE Students IISER Bhopal"
+    },
+    {
+      "relation": "heads",
+      "from": "DSE",
+      "to": "DSE Students IISER Bhopal"
+    },
+    {
+      "relation": "heads",
+      "from": "DSE",
+      "to": "BS-MS 5th Year"
+    },
+    {
+      "relation": "heads",
+      "from": "DSE",
+      "to": "BS-MS Majors (3rd Year)"
+    },
+    {
+      "relation": "heads",
+      "from": "DSE",
+      "to": "BS-MS Majors (4th Year)"
+    },
+    {
+      "relation": "heads",
+      "from": "DSE",
+      "to": "Alumni"
+    },
+    {
+      "relation": "belongsTo",
+      "from": "Department of Data Science and Engineering",
+      "to": "Institute"
+    },
+    {
+      "relation": "heads",
+      "from": "Department of Data Science and Engineering",
+      "to": "Dr. Tanmay Basu"
+    },
+    {
+      "relation": "partOf",
+      "from": "Department of Data Science and Engineering",
+      "to": "IISER Bhopal"
+    },
+    {
+      "relation": "heads",
+      "from": "Data Science and Engineering",
+      "to": "Dr. Tanmay Basu"
+    },
+    {
+      "relation": "guidedBy",
+      "from": "Aryan Mishra",
+      "to": "Dr. Akash Anil"
+    },
+    {
+      "relation": "memberOf",
+      "from": "Aryan Mishra",
+      "to": "Data Science and Engineering"
+    },
+    {
+      "relation": "guidedBy",
+      "from": "Prasanna D Kharode",
+      "to": "Dr. Akash Anil"
+    },
+    {
+      "relation": "memberOf",
+      "from": "Prasanna D Kharode",
+      "to": "Data Science and Engineering"
+    },
+    {
+      "relation": "guidedBy",
+      "from": "Debasmita Panda",
+      "to": "Dr. Akash Anil"
+    },
+    {
+      "relation": "memberOf",
+      "from": "Debasmita Panda",
+      "to": "Data Science and Engineering"
+    },
+    {
+      "relation": "guidedBy",
+      "from": "Sharayu Borade",
+      "to": "Dr. Akshay Agarwal"
+    },
+    {
+      "relation": "memberOf",
+      "from": "Sharayu Borade",
+      "to": "Data Science and Engineering"
+    },
+    {
+      "relation": "guidedBy",
+      "from": "Gurleen Kaur",
+      "to": "Dr. Akshay Agarwal"
+    },
+    {
+      "relation": "memberOf",
+      "from": "Gurleen Kaur",
+      "to": "Data Science and Engineering"
+    },
+    {
+      "relation": "guidedBy",
+      "from": "Khushi Chaudhari",
+      "to": "Dr. Akshay Agarwal"
+    },
+    {
+      "relation": "memberOf",
+      "from": "Khushi Chaudhari",
+      "to": "Data Science and Engineering"
+    },
+    {
+      "relation": "guidedBy",
+      "from": "Gargi Surendra Yeole",
+      "to": "Dr. Akshay Agarwal"
+    },
+    {
+      "relation": "memberOf",
+      "from": "Gargi Surendra Yeole",
+      "to": "Data Science and Engineering"
+    },
+    {
+      "relation": "heads",
+      "from": "Data Science and Engineering",
+      "to": "Dr. Akash Anil"
+    },
+    {
+      "relation": "heads",
+      "from": "Data Science and Engineering",
+      "to": "Dr. Akshay Agarwal"
+    },
+    {
+      "relation": "belongsTo",
+      "from": "Shivam Chopra",
+      "to": "DSE"
+    },
+    {
+      "relation": "guidedBy",
+      "from": "Shivam Chopra",
+      "to": "Dr. Vaibhav Kumar"
+    },
+    {
+      "relation": "belongsTo",
+      "from": "Suchetan G U",
+      "to": "DSE"
+    },
+    {
+      "relation": "guidedBy",
+      "from": "Suchetan G U",
+      "to": "Dr. Vaibhav Kumar"
+    },
+    {
+      "relation": "belongsTo",
+      "from": "Porus Vaid",
+      "to": "DSE"
+    },
+    {
+      "relation": "guidedBy",
+      "from": "Porus Vaid",
+      "to": "Dr. Vaibhav Kumar"
+    },
+    {
+      "relation": "belongsTo",
+      "from": "Aditya Kumar Singh",
+      "to": "DSE"
+    },
+    {
+      "relation": "guidedBy",
+      "from": "Aditya Kumar Singh",
+      "to": "Dr. Vinod K Kurmi"
+    },
+    {
+      "relation": "belongsTo",
+      "from": "Aditya Manoj",
+      "to": "DSE"
+    },
+    {
+      "relation": "guidedBy",
+      "from": "Aditya Manoj",
+      "to": "Dr. Sundaram Muthu"
+    },
+    {
+      "relation": "heads",
+      "from": "Dr. Vaibhav Kumar",
+      "to": "DSE"
+    },
+    {
+      "relation": "heads",
+      "from": "Dr. Vinod K Kurmi",
+      "to": "DSE"
+    },
+    {
+      "relation": "heads",
+      "from": "Dr. Sundaram Muthu",
+      "to": "DSE"
+    },
+    {
+      "relation": "belongsTo",
+      "from": "SE Students IISER Bhopal",
+      "to": "DSE"
+    },
+    {
+      "relation": "guidedBy",
+      "from": "SE Students IISER Bhopal",
+      "to": "Dr. Tanmay Basu"
+    },
+    {
+      "relation": "memberOf",
+      "from": "SE Students IISER Bhopal",
+      "to": "DSE"
+    },
+    {
+      "relation": "partOf",
+      "from": "Dr. Tanmay Basu",
+      "to": "IISER Bhopal"
+    },
+    {
+      "relation": "partOf",
+      "from": "dse-iiserb",
+      "to": "iiserb"
+    },
+    {
+      "relation": "heads",
+      "from": "Dr. Tanmay Basu",
+      "to": "dse-iiserb"
+    },
+    {
+      "relation": "heads",
+      "from": "dr-tanmay-basu",
+      "to": "dse-iiserb"
+    },
+    {
+      "relation": "belongsTo",
+      "from": "office-dse",
+      "to": "dse-iiserb"
+    },
+    {
+      "relation": "belongsTo",
+      "from": "department-homepage",
+      "to": "dse-iiserb"
+    },
+    {
+      "relation": "belongsTo",
+      "from": "S Majors",
+      "to": "DSE Students IISER Bhopal"
+    },
+    {
+      "relation": "belongsTo",
+      "from": "BS-MS Majors",
+      "to": "DSE Students IISER Bhopal"
+    },
+    {
+      "relation": "belongsTo",
+      "from": "Alumni",
+      "to": "DSE Students IISER Bhopal"
+    },
+    {
+      "relation": "partOf",
+      "from": "DSE Students IISER Bhopal",
+      "to": "IISER Bhopal"
+    },
+    {
+      "relation": "belongsTo",
+      "from": "PhD",
+      "to": "DSE Students IISER Bhopal"
+    },
+    {
+      "relation": "belongsTo",
+      "from": "BS-MS 5th Year",
+      "to": "DSE Students IISER Bhopal"
+    },
+    {
+      "relation": "belongsTo",
+      "from": "BS-MS Majors (3rd Year)",
+      "to": "DSE Students IISER Bhopal"
+    },
+    {
+      "relation": "belongsTo",
+      "from": "BS-MS Majors (4th Year)",
+      "to": "DSE Students IISER Bhopal"
+    },
+    {
+      "relation": "belongsTo",
+      "from": "More",
+      "to": "DSE Students IISER Bhopal"
+    },
+    {
+      "relation": "memberOf",
+      "from": "office_dse@iiserb.ac.in",
+      "to": "DSE Students IISER Bhopal"
+    },
+    {
+      "relation": "memberOf",
+      "from": "Department Homepage",
+      "to": "DSE Students IISER Bhopal"
+    },
+    {
+      "relation": "partOf",
+      "from": "Department",
+      "to": "IISER Bhopal"
+    },
+    {
+      "relation": "partOf",
+      "from": "BS-MS 5th Year",
+      "to": "IISER Bhopal"
+    },
+    {
+      "relation": "partOf",
+      "from": "BS-MS Majors (3rd Year)",
+      "to": "IISER Bhopal"
+    },
+    {
+      "relation": "partOf",
+      "from": "BS-MS Majors (4th Year)",
+      "to": "IISER Bhopal"
+    },
+    {
+      "relation": "partOf",
+      "from": "Alumni",
+      "to": "IISER Bhopal"
+    },
+    {
+      "relation": "partOf",
+      "from": "PhD",
+      "to": "IISER Bhopal"
+    },
+    {
+      "relation": "partOf",
+      "from": "MS Students",
+      "to": "IISER Bhopal"
+    },
+    {
+      "relation": "locatedIn",
+      "from": "Office",
+      "to": "IISER Bhopal"
+    },
+    {
+      "relation": "partOf",
+      "from": "IISER Bhopal",
+      "to": "IISER Bhopal"
+    },
+    {
+      "relation": "partOf",
+      "from": "dse",
+      "to": "iiserb"
+    },
+    {
+      "relation": "heads",
+      "from": "Tanmay Basu",
+      "to": "dse"
+    }
+  ]
+}
