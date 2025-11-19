@@ -1,0 +1,56 @@
+DEPARTMENT: Data Science and Engineering (DSE)
+PROGRAM: BS-MS 5th Year
+SOURCE: DSE Official Student List
+-----------------------------------------
+
+Name | Roll No. | Email | Supervisor | Github / Linkedin
+Aryan Mishra | 21056 | aryan21@iiserb.ac.in | Dr. Akash Anil | Github / Linkedin
+Prasanna D Kharode | 21144 | kharode21@iiserb.ac.in | Dr. Akash Anil | Github / Linkedin
+Debasmita Panda | 21326 | debasmitap21@iiserb.ac.in | Dr. Akash Anil | Github / Linkedin ; Github / Linkedin | https://github.com/debby123p
+Sharayu Borade | 21080 | borade21@iiserb.ac.in | Dr. Akshay Agarwal | Github / Linkedin ; Github / Linkedin | https://github.com/Sharayuborade5
+Gurleen Kaur | 21120 | gurleen21@iiserb.ac.in | Dr. Akshay Agarwal | Github / Linkedin
+Khushi Chaudhari | 21084 | khushi21@iiserb.ac.in | Dr. Akshay Agarwal | Github / Linkedin ; Github / Linkedin | http://www.linkedin.com/in/khushi-chaudhari-925483238
+Gargi Surendra Yeole | 21110 | surendra21@iiserb.ac.in | Dr. Akshay Agarwal | Github / Linkedin ; Github / Linkedin | https://github.com/GargiYeole
+Ashish Kumar | 21058 | ashish21@iiserb.ac.in | Dr. Akshay Agarwal | GitHub/LinkedIn ; GitHub/LinkedIn | https://www.linkedin.com/in/ashish-kumar-592420238
+Ritika Jain | 21223 | ritika21@iiserb.ac.in | Dr. Akshay Agarwal | Github / Linkedin
+Aditya Kishore | 21011 | adityak21@iiserb.ac.in | Dr. Jasabanta Patro | Github / Linkedin
+Babu kumar | 21068 | babu21@iiserb.ac.in | Dr. Jasabanta Patro | Github / Linkedin
+Manish Gayen | 21161 | manishg21@iiserb.ac.in | Dr. Samiran Das | GitHub/LinkedIn ; GitHub/LinkedIn | https://github.com/GayenManish07
+Aravind Babu M | 21323 | aravind21@iiserb.ac.in | Dr. Samiran Das | Github / Linkedin
+Avinash Kumar Kashyap | 21064 | avinash21@iiserb.ac.in | Dr. Samiran Das | Github / Linkedin
+Ganesh Birua | 21108 | ganeshb21@iiserb.ac.in | Dr. Samiran Das | Github / Linkedin
+Ashim Dhor | 21057 | ashim21@iiserb.ac.in | Dr. Tanmay Basu | Github / Linkedin ; Github / Linkedin | https://github.com/AshimDhor
+Srutanik Bhaduri | 21275 | srutanik21@iiserb.ac.in | Dr. Tanmay Basu | Github / Linkedin
+Saisab Sadhu | 21234 | saisab21@iiserb.ac.in | Dr. Tanmay Basu | Github / Linkedin ; Github / Linkedin | http://linkedin.com/in/saisab-sadhu
+Shivasish Singh | 21252 | shivasish21@iiserb.ac.in | Dr. Vaibhav Kumar | Github / Linkedin
+Shivam Chopra | 21338 | shivamc21@iiserb.ac.in | Dr. Vaibhav Kumar | Github / Linkedin
+Suchetan G U | 21342 | suchetan21@iiserb.ac.in | Dr. Vaibhav Kumar | Github / Linkedin ; Github / Linkedin | http://www.linkedin.com/in/suchetan-g-u-6703b9229
+Porus Vaid | 21208 | porus21@iiserb.ac.in | Dr. Vaibhav Kumar | Github / Linkedin
+Aditya Kumar Singh | 21012 | adityas21@iiserb.ac.in | Dr. Vinod K Kurmi | Github / Linkedin
+Aditya Manoj | 21347 | adityam21@iiserb.ac.in | Dr. Sundaram Muthu | GitHub/LinkedIn ; GitHub/LinkedIn | https://github.com/Equin0x909
+Name | Roll No. | Email | Supervisor | Github / Linkedin
+Aryan Mishra | 21056 | aryan21@iiserb.ac.in | Dr. Akash Anil | Github / Linkedin
+Prasanna D Kharode | 21144 | kharode21@iiserb.ac.in | Dr. Akash Anil | Github / Linkedin
+Debasmita Panda | 21326 | debasmitap21@iiserb.ac.in | Dr. Akash Anil | Github / Linkedin ; Github / Linkedin | https://github.com/debby123p
+Sharayu Borade | 21080 | borade21@iiserb.ac.in | Dr. Akshay Agarwal | Github / Linkedin ; Github / Linkedin | https://github.com/Sharayuborade5
+Gurleen Kaur | 21120 | gurleen21@iiserb.ac.in | Dr. Akshay Agarwal | Github / Linkedin
+Khushi Chaudhari | 21084 | khushi21@iiserb.ac.in | Dr. Akshay Agarwal | Github / Linkedin ; Github / Linkedin | http://www.linkedin.com/in/khushi-chaudhari-925483238
+Gargi Surendra Yeole | 21110 | surendra21@iiserb.ac.in | Dr. Akshay Agarwal | Github / Linkedin ; Github / Linkedin | https://github.com/GargiYeole
+Ashish Kumar | 21058 | ashish21@iiserb.ac.in | Dr. Akshay Agarwal | GitHub/LinkedIn ; GitHub/LinkedIn | https://www.linkedin.com/in/ashish-kumar-592420238
+Ritika Jain | 21223 | ritika21@iiserb.ac.in | Dr. Akshay Agarwal | Github / Linkedin
+Aditya Kishore | 21011 | adityak21@iiserb.ac.in | Dr. Jasabanta Patro | Github / Linkedin
+Babu kumar | 21068 | babu21@iiserb.ac.in | Dr. Jasabanta Patro | Github / Linkedin
+Manish Gayen | 21161 | manishg21@iiserb.ac.in | Dr. Samiran Das | GitHub/LinkedIn ; GitHub/LinkedIn | https://github.com/GayenManish07
+Aravind Babu M | 21323 | aravind21@iiserb.ac.in | Dr. Samiran Das | Github / Linkedin
+Avinash Kumar Kashyap | 21064 | avinash21@iiserb.ac.in | Dr. Samiran Das | Github / Linkedin
+Ganesh Birua | 21108 | ganeshb21@iiserb.ac.in | Dr. Samiran Das | Github / Linkedin
+Ashim Dhor | 21057 | ashim21@iiserb.ac.in | Dr. Tanmay Basu | Github / Linkedin ; Github / Linkedin | https://github.com/AshimDhor
+Srutanik Bhaduri | 21275 | srutanik21@iiserb.ac.in | Dr. Tanmay Basu | Github / Linkedin
+Saisab Sadhu | 21234 | saisab21@iiserb.ac.in | Dr. Tanmay Basu | Github / Linkedin ; Github / Linkedin | http://linkedin.com/in/saisab-sadhu
+Shivasish Singh | 21252 | shivasish21@iiserb.ac.in | Dr. Vaibhav Kumar | Github / Linkedin
+Shivam Chopra | 21338 | shivamc21@iiserb.ac.in | Dr. Vaibhav Kumar | Github / Linkedin
+Suchetan G U | 21342 | suchetan21@iiserb.ac.in | Dr. Vaibhav Kumar | Github / Linkedin ; Github / Linkedin | http://www.linkedin.com/in/suchetan-g-u-6703b9229
+Porus Vaid | 21208 | porus21@iiserb.ac.in | Dr. Vaibhav Kumar | Github / Linkedin
+Aditya Kumar Singh | 21012 | adityas21@iiserb.ac.in | Dr. Vinod K Kurmi | Github / Linkedin
+Aditya Manoj | 21347 | adityam21@iiserb.ac.in | Dr. Sundaram Muthu | GitHub/LinkedIn ; GitHub/LinkedIn | https://github.com/Equin0x909
+

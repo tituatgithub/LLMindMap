@@ -1,0 +1,20 @@
+Info about Data Science and Engineering Department
+DEPARTMENT: Data Science and Engineering (DSE)
+INSTITUTE: Indian Institute of Science Education and Research (IISER) Bhopal
+WEBSITE: https://dse.iiserb.ac.in
+OFFICIAL EMAIL: office_dse@iiserb.ac.in
+OFFICIAL PHONE: +91 755 269 2566
+HEAD OF DEPARTMENT: Dr. Tanmay Basu
+
+DESCRIPTION:
+The Department of Data Science and Engineering (DSE) at IISER Bhopal focuses on training students and researchers in the fields of Data Science, Artificial Intelligence, Machine Learning, and Computational Methods. 
+The department offers BS-MS, MS, and PhD programs with a strong emphasis on research and interdisciplinary applications.
+
+PROGRAMS OFFERED:
+ - BS-MS (Dual Degree)
+ - MS
+ - PhD
+
+NOTES:
+This is the canonical information for the DSE department.
+Use this for knowledge graph extraction.
